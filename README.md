@@ -30,6 +30,7 @@ measured while making **[No Fucks at All](projects/no_fucks_at_all/)** by karniv
 docs/                    PIPELINE.md, FINDINGS.md
 tools/                   shared scripts: ComfyUI workflow builders, beat/lip-sync
                          scoring, SeedVR2 upscale, small-face fix
+  templates/comfyui/     the ComfyUI workflows the builders start from
 models/                  YuNet face detector (OpenCV zoo)
 projects/
   no_fucks_at_all/       the first video
@@ -52,6 +53,14 @@ ComfyUI with MiniMax H3, Krea 2, Flux 2 Klein and SeedVR2 models (the H3 checkpo
 text encoder are ~59 GB); Python venvs described in [PIPELINE.md](docs/PIPELINE.md#0-setup).
 The builders reference a local ComfyUI install at `D:\Projects_26\Comfyu\ComfyUI` and
 templates from the ComfyUI gallery by name; adjust the paths for your machine.
+
+## License
+
+**Public domain — [CC0 1.0](LICENSE).** Code, docs, prompts, reference images, the song,
+its stems and the finished video are all free to use, modify and redistribute for any
+purpose, commercial or not, with no attribution required. Two third-party files (a face
+detector model and a workflow template) are MIT-licensed; see
+[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ## Credits
 
