@@ -1,0 +1,19 @@
+subject_definitions
+<Subject 1> is the model spaceship in <Picture 1>: a cheap hand-made model with a saucer of two paper plates spray-painted silver, a cardboard-tube neck, a toilet-roll hull and two foil-wrapped tube engines, hanging on an obvious white string inside a black-painted box with painted stars.
+
+summary
+[reference generation] The target video shows <Subject 1> drifting toward the camera through its painted starfield, bobbing on its string.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - the paper-plate saucer, cardboard tubes, foil engines and the visible string are retained exactly as in <Picture 1>.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A close shot of <Subject 1> hanging in the black painted starfield, lit by one hard desk lamp from the side. It drifts slowly toward the camera, swaying and bouncing up and down on its visible white string in time to the driving beat, turning slightly, its foil engines glinting, until the paper-plate saucer nearly fills the frame. The camera Pushes in with small amplitude at slow speed.
+
+overall_soundscape
+A hollow whooshing sound effect over the music.
+
+non_diegetic_music
+A bouncy new-wave rock instrumental with a driving beat.

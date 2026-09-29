@@ -1,0 +1,25 @@
+subject_definitions
+<Subject 1> is the drummer in <Picture 1>: a punk woman with huge crimped 1980s hair split down the middle, jet black on her right side and bright red on her left, hot pink eyeshadow, silver hoops and a studded collar, in a leopard-print crop top and a red tartan vest. <Picture 1> is a character sheet of <Subject 1>, the same single person throughout.
+<Subject 2> is the treasure chest in <Picture 2>: a shoebox-sized wooden chest with dark varnished wood and polished brass bands, corners and hasp, warm golden light pouring up from inside when its curved lid is open.
+<Subject 3> is the gold word in <Picture 3>: the word "FUCK" as a solid object, chunky rounded 1980s capital letters extruded in polished gold metal with bevelled edges, softly glowing, small enough to fit in the palm of a hand.
+<Subject 4> is the television studio living room set in <Picture 4>: plywood walls painted as fake wood panelling with a crooked sailboat picture, a lumpy orange floral sofa, a shaggy green rug, a fringed floor lamp, and a big vintage CRT television on a spindly stand with a bulging bulbous glass screen, a wood-grain cabinet and tall rabbit-ear antennae, a grey-haired politician in a dark suit and red tie speaking at a podium on its glowing screen.
+
+summary
+[reference generation] The target video shows <Subject 1> on <Subject 4>, deflated, holding <Subject 2> which is now empty, gold words scattered uselessly around the television.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - her face, split black and red crimped hair, makeup and punk outfit are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the wooden chest with brass bands and the golden light inside are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the gold letters spelling "FUCK", their chunky rounded shape and polished gold finish are retained exactly as in <Picture 3>.
+<Subject 4> (appears in [Shot 1]): attribute_transfer - the wood-panel walls, floral sofa, green rug and the rabbit-eared CRT television showing the politician are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A medium shot on <Subject 4>. The politician is still talking on the rabbit-eared television, unbothered. <Subject 1> stands slumped beside the floral sofa holding <Subject 2>, its lid open and its inside dark and empty, no light coming out. Spent gold words like <Subject 3> lie scattered on the green rug around the television. She tips the chest toward the camera, peers into it, shakes it upside down, and nothing falls out. Her shoulders sag, her lower lip trembles, and she looks up at the camera with big sad eyes. The camera is Static.
+
+overall_soundscape
+The politician's muffled droning from the TV speaker, a sad little sigh.
+
+non_diegetic_music
+A bouncy new-wave rock instrumental with a driving beat.

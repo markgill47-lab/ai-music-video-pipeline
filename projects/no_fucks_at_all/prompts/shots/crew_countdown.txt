@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is the studio crew in <Picture 1>: a burly bearded stagehand in a red flannel shirt, a backwards grey cap, jeans and a leather tool belt; a wiry woman electrician with a curly brown perm and a yellow sweatband in blue denim overalls over a yellow T-shirt; and a skinny floor manager with a thin moustache and aviator glasses wearing a studio headset, a black STAFF T-shirt and khakis, carrying a clipboard.
+<Subject 2> is the television studio in <Picture 2>: walls hung with huge hot pink, tangerine orange and turquoise curtains, a fresnel lighting grid, wooden audience bleachers and vintage pedestal cameras.
+
+summary
+[reference generation] The target video shows the floor manager from <Subject 1> counting the band in at the start of the show in <Subject 2>.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - each crew member's face, hair and work clothes are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the bright curtains, lighting grid and wooden bleachers are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A close shot of the floor manager from <Subject 1> in the foreground, facing the band stage with his back three-quarters to the camera, headset on, clipboard tucked under his arm, the band set blurred and glowing beyond him. He raises one hand high and counts down briskly on his fingers, three, two, one, then points sharply at the stage, and the stage lights blaze up behind him. The camera is Static.
+
+overall_soundscape
+The floor manager whispering 'three, two, one', a burst of stage lights, the band kicking in.
+
+non_diegetic_music
+A bouncy new-wave rock instrumental with a driving beat.

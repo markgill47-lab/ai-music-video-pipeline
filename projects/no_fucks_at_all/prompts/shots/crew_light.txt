@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is the studio crew in <Picture 1>: a burly bearded stagehand in a red flannel shirt, a backwards grey cap, jeans and a leather tool belt; a wiry woman electrician with a curly brown perm and a yellow sweatband in blue denim overalls over a yellow T-shirt; and a skinny floor manager with a thin moustache and aviator glasses wearing a studio headset, a black STAFF T-shirt and khakis, carrying a clipboard.
+<Subject 2> is the television studio in <Picture 2>: walls hung with huge hot pink, tangerine orange and turquoise curtains, a fresnel lighting grid, wooden audience bleachers and vintage pedestal cameras.
+
+summary
+[reference generation] The target video shows the electrician from <Subject 1> on a ladder aiming a studio light in <Subject 2>.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - each crew member's face, hair and work clothes are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the bright curtains, lighting grid and wooden bleachers are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A low-angle medium shot looking up at the woman electrician from <Subject 1> standing near the top of a wooden A-frame stepladder under the lighting grid of <Subject 2>, reaching up with gloved hands to swing a big fresnel lamp on its yoke and tighten the knob, the lamp's beam sweeping across the bright curtains behind her and flaring into the lens as it comes around. The camera Tilts up with small amplitude at slow speed.
+
+overall_soundscape
+The squeak of a lamp yoke, a clank of metal, the band tuning up in the background.
+
+non_diegetic_music
+A bouncy new-wave rock instrumental with a driving beat.

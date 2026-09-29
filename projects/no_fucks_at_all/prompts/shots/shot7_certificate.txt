@@ -1,0 +1,23 @@
+subject_definitions
+<Subject 1> is the singer in <Picture 1>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit with padded shoulders, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is the framed certificate in <Picture 2>: cream parchment reading "CERTIFIED PROFESSIONAL" in large black lettering, with a red foil seal and ribbons, in an ornate gold frame behind glass.
+<Subject 3> is the television studio office set in <Picture 3>: canary yellow plywood walls with painted-on windows showing a turquoise sky and cartoon skyline, a fire-engine red desk, an oversized beige desk telephone, a stack of paper, a blue filing cabinet, a painted wall calendar and a potted plastic palm.
+
+summary
+[reference generation] The target video shows <Subject 1> on <Subject 3> dropping into an office chair with <Subject 2>, singing about it, then tossing it away.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the gold frame, the lettering "CERTIFIED PROFESSIONAL" and the red seal are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): attribute_transfer - the yellow walls, painted windows, red desk, beige telephone and blue filing cabinet are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A medium shot on <Subject 3>. <Subject 1> (S1) flops down into a swivel office chair behind the red desk, holding <Subject 2> up proudly beside his face with both hands so the lettering "CERTIFIED PROFESSIONAL" faces the camera. At 00:00.100 he (S1) sings <d>[English] I'm a certified professional, not giving a fuck engineer</d> with a smug, heavy-lidded look over the top of his red glasses. On the final word he tosses the framed certificate nonchalantly over his shoulder without looking, and it clatters away out of frame behind him while he leans back in the chair and puts his feet up on the desk. The camera is Static.
+
+overall_soundscape
+The band plays loud in a small television studio, the singer's voice through the PA, the room's hard walls ringing slightly.
+
+non_diegetic_music
+N/A

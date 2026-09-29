@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is the studio audience in <Picture 1>: six ordinary people in bright everyday 1980s fashion, a woman with a big blonde perm in a neon pink sweatshirt, a moustached man in a red trucker cap and tan windbreaker, a young man with a hi-top fade in a purple colour-block windbreaker, an older woman with a silver bouffant in a lavender skirt suit, a teenage boy in a salmon polo with a sweater over his shoulders, and a woman with a black bob in an electric-blue blazer.
+<Subject 2> is the television studio in <Picture 2>: walls hung with huge hot pink, tangerine orange and turquoise curtains, a fresnel lighting grid, wooden audience bleachers and vintage pedestal cameras.
+
+summary
+[reference generation] The target video shows the studio audience from <Subject 1> sitting on the wooden bleachers of <Subject 2>, clapping along to the band.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - each person's hair and bright 1980s outfit are retained as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the bright curtains, lighting grid and wooden bleachers are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A reverse angle from the stage looking back at the wooden bleachers of <Subject 2>, a medium-wide shot of the people from <Subject 1> sitting scattered across the benches in their bright 1980s outfits, facing the camera, the bright curtains and a pedestal camera behind them. They clap along on the beat with big grins, heads bobbing, the blonde perm woman bouncing in her seat, the man in the red cap clapping over his head, the older woman clapping primly with her handbag on her knees. The camera Pans slowly to the right across the bleachers.
+
+overall_soundscape
+The audience clapping in time, a few whoops, the band playing loud in the room.
+
+non_diegetic_music
+A bouncy new-wave rock instrumental with a driving beat.

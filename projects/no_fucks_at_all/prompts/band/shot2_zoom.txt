@@ -1,0 +1,25 @@
+subject_definitions
+<Subject 1> is the singer in <Picture 1>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit with padded shoulders, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is the guitarist in <Picture 2>: a tall thin man with long straight black hair and a curled waxed moustache, in a battered crimson top hat, a crimson tailcoat with gold braid, a black silk scarf and striped trousers. <Picture 2> is a character sheet of <Subject 2>, the same single person throughout.
+<Subject 3> is the drummer in <Picture 3>: a punk woman with huge crimped 1980s hair split down the middle, jet black on her right side and bright red on her left, hot pink eyeshadow, silver hoops and a studded collar, in a leopard-print crop top and a red tartan vest. <Picture 3> is a character sheet of <Subject 3>, the same single person throughout.
+<Subject 4> is the television studio band set in <Picture 4>: a hand-painted cartoon city skyline backdrop in turquoise, hot pink and lemon yellow with a jagged lightning bolt and painted stars, a black-and-white checkerboard riser with a red drum kit and two small amplifiers, a fresnel lighting grid overhead, black drapes, and a studio camera on a pedestal.
+
+summary
+[reference generation] The target video shows <Subject 1>, <Subject 2> and <Subject 3> playing on <Subject 4>; the camera crash-zooms from the whole band into a close-up of <Subject 1> and holds on him as he sings the first two lines.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - his face, black hair, moustache, crimson top hat and tailcoat are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): fully_preserved - her face, split black and red crimped hair, makeup and punk outfit are retained exactly as in <Picture 3>.
+<Subject 4> (appears in [Shot 1]): attribute_transfer - the painted skyline backdrop, checkerboard riser, red drum kit, amplifiers and lighting grid are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music performance, flat bright studio light, hugely saturated colour, 35mm film grain.
+
+[Shot 1] A single continuous shot. It opens wide on the band playing on <Subject 4>: <Subject 1> (S1) bouncing at the chrome microphone front and centre, <Subject 2> strumming a white electric guitar at the left, <Subject 3> pounding the red drum kit on the checkerboard riser behind them. At 00:01.200 the camera makes a fast Zoom with large amplitude straight in on <Subject 1>, landing on a close-up of his face and shoulders by 00:02.000, his red spikes, red-lensed glasses, beaky nose and purple lapels filling the frame, the painted skyline bright behind him and <Subject 3> a blur of black and red hair over his shoulder. The camera then holds Static on the close-up. He grips the microphone and sings straight into the lens with wide-eyed, manic conviction, lips shaping every word, eyebrows shooting up on the long notes, a sly grin between phrases. He (S1) sings <d>[English] I used to worry about everything I'm not</d> At 00:05.800 he (S1) sings <d>[English] Till I learned a secret trick that the universe forgot</d> On the word "forgot" he peers over the top of his red glasses with a knowing look.
+
+overall_soundscape
+The band plays loud in a small television studio, the singer's voice through the PA, the room's hard walls ringing slightly.
+
+non_diegetic_music
+N/A

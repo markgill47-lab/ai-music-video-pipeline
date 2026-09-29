@@ -1,0 +1,27 @@
+subject_definitions
+<Subject 1> is the studio audience in <Picture 1>: six ordinary people in bright everyday 1980s fashion, a woman with a big blonde perm in a neon pink sweatshirt, a moustached man in a red trucker cap and tan windbreaker, a young man with a hi-top fade in a purple colour-block windbreaker, an older woman with a silver bouffant in a lavender skirt suit, a teenage boy in a salmon polo with a sweater over his shoulders, and a woman with a black bob in an electric-blue blazer.
+<Subject 2> is the two grooms in <Picture 2>: a tall broad man with a thick dark beard in a white tuxedo with a ruffled shirt and pink bow tie, and a shorter slim man with a blond feathered mullet in a powder-blue tuxedo with velvet lapels and a navy bow tie.
+<Subject 3> is the gorilla in <Picture 3>: a man in a cheap shaggy black gorilla costume with a rubbery grey mask, a small red bow tie and a party hat.
+<Subject 4> is the television studio in <Picture 4>: walls hung with huge hot pink, tangerine orange and turquoise curtains, a fresnel lighting grid, wooden audience bleachers and vintage pedestal cameras.
+<Subject 5> is the television studio band set in <Picture 5>: a hand-painted cartoon city skyline backdrop in turquoise, hot pink and lemon yellow with a jagged lightning bolt and painted stars, a black-and-white checkerboard riser with a red drum kit and two small amplifiers, a fresnel lighting grid overhead, black drapes, and a studio camera on a pedestal.
+
+summary
+[reference generation] The target video shows the studio audience of <Subject 1>, <Subject 2> and <Subject 3> leaping up from the bleachers of <Subject 4> and running onto <Subject 5>.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - each person's hair and bright 1980s outfit are retained as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - both grooms' faces, hair and tuxedos are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the shaggy black gorilla suit, mask, red bow tie and party hat are retained exactly as in <Picture 3>.
+<Subject 4> (appears in [Shot 1]): attribute_transfer - the bright curtains, lighting grid and wooden bleachers are carried into the target video.
+<Subject 5> (appears in [Shot 1]): attribute_transfer - the painted skyline backdrop, checkerboard riser, red drum kit, amplifiers and lighting grid are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A wide shot across the studio of <Subject 4>. The people of <Subject 1> leap up off the wooden bleachers, waving their arms, and run excitedly across the concrete floor toward <Subject 5>, joined by the two grooms of <Subject 2> in their tuxedos and by <Subject 3> in his gorilla suit and party hat, who bounds along scratching his head. They hop up onto the band stage in a happy rush. The camera Pans to the right with them at medium speed.
+
+overall_soundscape
+Cheering, whooping and running footsteps over the music.
+
+non_diegetic_music
+A bouncy new-wave rock instrumental with a driving beat.

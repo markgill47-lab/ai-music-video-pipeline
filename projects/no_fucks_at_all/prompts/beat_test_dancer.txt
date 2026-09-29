@@ -1,0 +1,8 @@
+integrated_multimodal_description
+Live-action, cinematic, a single continuous full-body shot of a dancer on a bare black stage, framed centre, head to feet with space around her. She is in her twenties, short bleached hair, a black sleeveless top, black cargo trousers and heavy black boots. One hard white spotlight falls from directly above, carving her out of the surrounding black, and a thin haze hangs in the beam. She dances hard and precisely to the music, every kick drum landing as a sharp hit in her body: her shoulders snap down, her boots stamp, her arms punch out and freeze, then snap to the next position on the next beat. Between hits she holds still for a split second, so each beat reads as a distinct, crisp accent. Her energy builds through the shot, the hits getting bigger, her hair flicking with each snap of the head. The camera is Static, locked off at chest height, holding the full body in frame for the whole shot.
+
+overall_soundscape
+The music fills the room, boots stamping on a hollow wooden stage, the rustle of fabric on each hit.
+
+non_diegetic_music
+N/A

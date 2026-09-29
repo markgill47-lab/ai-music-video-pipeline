@@ -1,0 +1,14 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a 1980s public-access television music performance, flat bright studio light, hugely saturated colour, 35mm film grain.
+
+[Shot 1] A wide shot of the band on the small studio band set, matching <Picture 1> exactly at the opening frame: the hand-painted cartoon city skyline backdrop in turquoise, hot pink and lemon yellow with its jagged lightning bolt, the black-and-white checkerboard riser, the fresnel lighting grid overhead and the studio camera on its pedestal at the left. The singer (S1), a gangly older man with a long bony face, beaky nose, jug ears, fire-engine red spiked hair and small round red-lensed glasses, in a boxy purple suit and daisy-print tie, grips the chrome microphone front and centre. The guitarist in the crimson top hat and tailcoat strums a white electric guitar at the left, and the drummer with huge crimped hair, jet black on one side and bright red on the other, pounds the red kit behind him. The singer (S1) sings <d>[English] So I filed it away</d> The camera is Static.
+
+[Shot 2] At 00:01.700, the camera cuts to a medium close-up of the singer (S1) at the chrome microphone, framed from the chest up, his face large in frame and turned slightly toward camera, his mouth fully visible above the microphone. His red spikes, red-lensed glasses sitting on his beaky nose, purple lapels and checkerboard collar fill the frame, the painted skyline bright behind him and the drummer a blur of black and red hair over his shoulder. He sings with manic conviction, jaw working hard, lips shaping every word, eyebrows shooting up on the long notes. He (S1) sings <d>[English] Under nope, not now, not ever today</d> At 00:05.600 he (S1) sings <d>[English] Traffic was a circus, but I floated above</d> He leans into the microphone on the last line with a crooked grin. The camera is Static.
+
+overall_soundscape
+The band plays loud in a small television studio, the singer's voice through the PA, the room's hard walls ringing slightly.
+
+non_diegetic_music
+N/A

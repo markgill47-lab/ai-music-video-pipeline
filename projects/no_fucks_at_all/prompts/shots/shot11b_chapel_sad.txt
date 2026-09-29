@@ -1,0 +1,27 @@
+subject_definitions
+<Subject 1> is the guitarist in <Picture 1>: a tall thin man with long straight black hair and a curled waxed moustache, in a battered crimson top hat, a crimson tailcoat with gold braid, a black silk scarf and striped trousers. <Picture 1> is a character sheet of <Subject 1>, the same single person throughout.
+<Subject 2> is the two grooms in <Picture 2>: a tall broad man with a thick dark beard in a white tuxedo with a ruffled shirt and pink bow tie, and a shorter slim man with a blond feathered mullet in a powder-blue tuxedo with velvet lapels and a navy bow tie.
+<Subject 3> is the treasure chest in <Picture 3>: a shoebox-sized wooden chest with dark varnished wood and polished brass bands, corners and hasp, warm golden light pouring up from inside when its curved lid is open.
+<Subject 4> is the gold word in <Picture 4>: the word "FUCK" as a solid object, chunky rounded 1980s capital letters extruded in polished gold metal with bevelled edges, softly glowing, small enough to fit in the palm of a hand.
+<Subject 5> is the television studio wedding chapel set in <Picture 5>: two wobbly white pillars made of painted cardboard tubes either side of a small plywood altar with a lace cloth and plastic flowers, a plywood flat painted as a stained-glass window in hot pink, turquoise and yellow, a white paper aisle runner, folding chairs with white bows and paper wedding bells overhead.
+
+summary
+[reference generation] The target video shows <Subject 1> on <Subject 5>, dejected, looking into <Subject 3> which is now empty, while <Subject 2> happily finish their wedding behind him.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, black hair, moustache, crimson top hat and tailcoat are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - both grooms' faces, hair and tuxedos are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the wooden chest with brass bands and the golden light inside are retained exactly as in <Picture 3>.
+<Subject 4> (appears in [Shot 1]): fully_preserved - the gold letters spelling "FUCK", their chunky rounded shape and polished gold finish are retained exactly as in <Picture 4>.
+<Subject 5> (appears in [Shot 1]): attribute_transfer - the cardboard pillars, altar, painted stained-glass window, aisle runner and paper bells are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A medium shot on <Subject 5>. <Subject 1> in his crimson top hat and tailcoat stands in the foreground holding <Subject 3>, its lid open and its inside dark and empty. Spent gold words like <Subject 4> lie scattered down the aisle behind him. He peers into the box, turns it upside down and shakes it, and nothing comes out. His moustache droops and he gazes mournfully at the camera. Behind him, between the cardboard pillars, the two grooms of <Subject 2> kiss and throw their arms up in celebration, paying him no attention. The camera is Static.
+
+overall_soundscape
+Soft organ music, a few cheers, a sad little sigh.
+
+non_diegetic_music
+A bouncy new-wave rock instrumental with a driving beat.

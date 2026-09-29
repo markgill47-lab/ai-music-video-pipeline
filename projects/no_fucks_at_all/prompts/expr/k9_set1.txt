@@ -1,0 +1,9 @@
+Rotate the camera 90 degrees to the right, show the man in profile.
+Rotate the camera 90 degrees to the left, show the man in profile.
+Rotate the camera 45 degrees to the left, show the man in three-quarter view.
+Show the face in a neutral expression, looking straight into the camera.
+Show the face in a huge manic grin, mouth open, with a gap between his two front teeth.
+Show the face singing a high note, mouth stretched wide open.
+Show the face sly, peering over the top of his red glasses with narrowed eyes and a crooked one-sided smirk.
+Show the face shocked, eyes wide and eyebrows arched.
+Show the face yelling in outrage, teeth bared, brows knotted.

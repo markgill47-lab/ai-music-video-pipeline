@@ -1,0 +1,23 @@
+subject_definitions
+<Subject 1> is the robot in <Picture 1>: a man in a homemade cardboard-box robot costume, a square box helmet with a red cellophane eye slot, a grille mouth and pipe-cleaner antennae, a silver box torso covered in bottle-cap dials, a tin-can speaker and Christmas-tree lights, dryer-vent hose arms and legs and box boots.
+<Subject 2> is the singer in <Picture 2>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit with padded shoulders, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 2> is a character sheet showing <Subject 2> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 3> is the television studio starship bridge set in <Picture 3>, built from cardboard and aluminium foil: a horseshoe of foil-covered cardboard consoles with bottle-cap buttons and Christmas-tree lights, a gold spray-painted thrift-store swivel armchair as the captain's chair, two cardboard helm stations, orange, red and silver foil walls, and a big black viewscreen with glitter stars and a painted planet.
+
+summary
+[reference generation] The target video shows a closer shot of <Subject 1> recalibrating at its console on <Subject 3>, then turning and saluting <Subject 2>.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - the box helmet, red eye slot, antennae, silver dial-covered torso, hose limbs and box boots are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): attribute_transfer - the foil consoles, gold captain's chair, foil walls and starry viewscreen are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A close shot of <Subject 1> (S2) at its console on <Subject 3>, the box helmet and dial-covered chest filling much of the frame, <Subject 2> small in the gold captain's chair behind. Its red eye slot flickers, its antennae spin, and its head whirls in a jerky circle as it recalibrates. At 00:02.300 it (S2) says <d>[English] Recalibrating</d> At 00:05.200 it (S2) says <d>[English] Zero, zero, zero</d> its chest lights going dark one by one. At 00:07.000 it turns stiffly toward <Subject 2> and snaps a salute with its oven-mitt hand, and it (S2) says <d>[English] Yes, captain, we give</d> The camera is Static.
+
+overall_soundscape
+A flat, crackly robotic voice over the band, the hum and beeps of the cardboard consoles.
+
+non_diegetic_music
+N/A

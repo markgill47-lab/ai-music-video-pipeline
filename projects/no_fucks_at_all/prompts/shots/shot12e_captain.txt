@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is the singer in <Picture 1>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit with padded shoulders, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is the television studio starship bridge set in <Picture 2>, built from cardboard and aluminium foil: a horseshoe of foil-covered cardboard consoles with bottle-cap buttons and Christmas-tree lights, a gold spray-painted thrift-store swivel armchair as the captain's chair, two cardboard helm stations, orange, red and silver foil walls, and a big black viewscreen with glitter stars and a painted planet.
+
+summary
+[reference generation] The target video shows <Subject 1> in the gold captain's chair on <Subject 2> delivering the punchline.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the foil consoles, gold captain's chair, foil walls and starry viewscreen are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A medium close-up of <Subject 1> (S1) lounging in the gold captain's chair on <Subject 2>, the foil walls and starry viewscreen behind him. He leans toward the camera, peers over the top of his red glasses and, with grand captainly authority, (S1) sings <d>[English] No fucks at all</d> then leans back with a satisfied smirk. The camera Pushes in with small amplitude at slow speed.
+
+overall_soundscape
+The band plays loud in a small television studio, the singer's voice through the PA, the room's hard walls ringing slightly.
+
+non_diegetic_music
+N/A

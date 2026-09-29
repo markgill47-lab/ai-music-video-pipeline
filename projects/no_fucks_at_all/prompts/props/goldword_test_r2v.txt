@@ -1,0 +1,25 @@
+subject_definitions
+<Subject 1> is the singer in <Picture 1>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is the gold word in <Picture 2>: the word "FUCK" as a solid object, chunky rounded 1980s capital letters extruded in polished gold metal with bevelled edges, softly glowing, small enough to hold in one hand.
+<Subject 3> is the treasure chest in <Picture 3>: a small shoebox-sized wooden chest with dark varnished wood and polished brass bands, corners and hasp, its curved lid open, warm golden light pouring up from inside.
+<Subject 4> is the television studio office set in <Picture 4>: canary yellow plywood walls with painted-on windows showing a turquoise sky and cartoon skyline, a fire-engine red desk, an oversized beige desk telephone, a stack of paper, a blue filing cabinet, a painted wall calendar and a potted plastic palm.
+
+summary
+[reference generation] The target video shows <Subject 1> standing at the red desk on <Subject 4>, lifting <Subject 2> and lowering it carefully into <Subject 3>.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the gold letters spelling "FUCK", their chunky rounded shape and polished gold finish are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the wooden chest with brass bands and the golden light inside are retained exactly as in <Picture 3>.
+<Subject 4> (appears in [Shot 1]): attribute_transfer - the yellow walls, painted windows, red desk, beige telephone and blue filing cabinet are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated colour, 35mm film grain.
+
+[Shot 1] A medium shot of <Subject 1> standing behind the red desk on <Subject 4>, framed from the waist up, <Subject 3> sitting open on the desk in front of him with golden light pouring up out of it and lighting his face from below. He holds <Subject 2> up in one hand at chest height, the gold letters reading "FUCK" facing the camera, turns it once to admire it, then lowers it slowly and reverently into <Subject 3>, the glow flaring brighter as it goes in. He looks up at the camera with a satisfied crooked smile. The camera is Static.
+
+overall_soundscape
+Quiet studio room tone, the soft clink of metal settling into wood.
+
+non_diegetic_music
+A bouncy new-wave rock instrumental with a driving beat.

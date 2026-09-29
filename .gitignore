@@ -1,0 +1,26 @@
+# Python environments and caches
+.venv_audio/
+.venv_face/
+__pycache__/
+*.pyc
+
+# Local Claude Code settings (skills under .claude/skills/ ARE committed)
+.claude/settings.local.json
+
+# Earlier experiments, kept locally only
+projects/earlier_tests/
+
+# Rendered video is published as GitHub Release assets, not committed
+*.mp4
+*.mov
+*.webm
+
+# Intermediate working folders from assembly and upscaling
+projects/*/out/edit/
+projects/*/out/edit_full/
+projects/*/out/upscale_full/
+
+# One-off housekeeping
+_reorganize.py
+_reorganize.log
+_release/

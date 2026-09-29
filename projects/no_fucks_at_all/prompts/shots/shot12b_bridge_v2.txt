@@ -1,0 +1,27 @@
+subject_definitions
+<Subject 1> is the singer in <Picture 1>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit with padded shoulders, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is the drummer in <Picture 2>: a punk woman with huge crimped 1980s hair split down the middle, jet black on her right side and bright red on her left, hot pink eyeshadow, silver hoops and a studded collar, in a leopard-print crop top and a red tartan vest. <Picture 2> is a character sheet of <Subject 2>, the same single person throughout.
+<Subject 3> is the guitarist in <Picture 3>: a tall thin man with long straight black hair and a curled waxed moustache, in a battered crimson top hat, a crimson tailcoat with gold braid, a black silk scarf and striped trousers. <Picture 3> is a character sheet of <Subject 3>, the same single person throughout.
+<Subject 4> is the robot in <Picture 4>: a man in a homemade cardboard-box robot costume, a square box helmet with a red cellophane eye slot, a grille mouth and pipe-cleaner antennae, a silver box torso covered in bottle-cap dials, a tin-can speaker and Christmas-tree lights, dryer-vent hose arms and legs and box boots.
+<Subject 5> is the television studio starship bridge set in <Picture 5>, built from cardboard and aluminium foil: a horseshoe of foil-covered cardboard consoles with bottle-cap buttons and Christmas-tree lights, a gold spray-painted thrift-store swivel armchair as the captain's chair, two cardboard helm stations, orange, red and silver foil walls, and a big black viewscreen with glitter stars and a painted planet.
+
+summary
+[reference generation] The target video shows the crew on <Subject 5>: <Subject 1> in the captain's chair, <Subject 2>, <Subject 3> and <Subject 4> at the cardboard consoles, seen in a fast sweeping camera move.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - her face, split black and red crimped hair, makeup and punk outfit are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): fully_preserved - his face, black hair, moustache, crimson top hat and tailcoat are retained exactly as in <Picture 3>.
+<Subject 4> (appears in [Shot 1]): fully_preserved - the box helmet, red eye slot, antennae, silver dial-covered torso, hose limbs and box boots are retained exactly as in <Picture 4>.
+<Subject 5> (appears in [Shot 1]): attribute_transfer - the foil consoles, gold captain's chair, foil walls and starry viewscreen are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A wide shot of <Subject 5> in bright flat studio light. <Subject 1> sits in the gold captain's chair in the centre, legs crossed, bouncing his hand on the armrest in time to the music and nodding along. <Subject 2> and <Subject 3> sit at the two cardboard helm stations in front of him, jabbing bottle-cap buttons with great seriousness. <Subject 4> stands stiffly at a foil-covered console to one side, its Christmas-tree lights blinking. The camera Arcs around the bridge from left to right with large amplitude at fast speed, whipping past the foil consoles and the starry viewscreen, sweeping a full half-circle around the captain's chair and settling on a front view of <Subject 1> and the crew by the end of the shot.
+
+overall_soundscape
+Beeps and boops from the consoles over the music.
+
+non_diegetic_music
+N/A

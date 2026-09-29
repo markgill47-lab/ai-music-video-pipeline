@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "comfy": {
+      "command": "D:\\Projects_26\\Comfyu\\ComfyUI\\venv\\Scripts\\comfy-mcp.exe",
+      "args": [],
+      "env": {
+        "COMFY_BIN": "D:\\Projects_26\\Comfyu\\ComfyUI\\venv\\Scripts\\comfy.exe"
+      }
+    }
+  }
+}

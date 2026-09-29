@@ -1,0 +1,33 @@
+subject_definitions
+<Subject 1> is the singer in <Picture 1>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit with padded shoulders, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is the guitarist in <Picture 2>: a tall thin man with long straight black hair and a curled waxed moustache, in a battered crimson top hat, a crimson tailcoat with gold braid, a black silk scarf and striped trousers. <Picture 2> is a character sheet of <Subject 2>, the same single person throughout.
+<Subject 3> is the drummer in <Picture 3>: a punk woman with huge crimped 1980s hair split down the middle, jet black on her right side and bright red on her left, hot pink eyeshadow, silver hoops and a studded collar, in a leopard-print crop top and a red tartan vest. <Picture 3> is a character sheet of <Subject 3>, the same single person throughout.
+<Subject 4> is the studio audience in <Picture 4>: six ordinary people in bright everyday 1980s fashion, a woman with a big blonde perm in a neon pink sweatshirt, a moustached man in a red trucker cap and tan windbreaker, a young man with a hi-top fade in a purple colour-block windbreaker, an older woman with a silver bouffant in a lavender skirt suit, a teenage boy in a salmon polo with a sweater over his shoulders, and a woman with a black bob in an electric-blue blazer.
+<Subject 5> is the two grooms in <Picture 5>: a tall broad man with a thick dark beard in a white tuxedo with a ruffled shirt and pink bow tie, and a shorter slim man with a blond feathered mullet in a powder-blue tuxedo with velvet lapels and a navy bow tie.
+<Subject 6> is the gorilla in <Picture 6>: a man in a cheap shaggy black gorilla costume with a rubbery grey mask, a small red bow tie and a party hat.
+<Subject 7> is the robot in <Picture 7>: a man in a homemade cardboard-box robot costume, a square box helmet with a red cellophane eye slot, a grille mouth and pipe-cleaner antennae, a silver box torso covered in bottle-cap dials, a tin-can speaker and Christmas-tree lights, dryer-vent hose arms and legs and box boots.
+<Subject 8> is the television studio band set in <Picture 8>: a hand-painted cartoon city skyline backdrop in turquoise, hot pink and lemon yellow with a jagged lightning bolt and painted stars, a black-and-white checkerboard riser with a red drum kit and two small amplifiers, a fresnel lighting grid overhead, black drapes, and a studio camera on a pedestal.
+
+summary
+[reference generation] The target video shows everyone together on <Subject 8> for the finale: the band, the people of <Subject 4>, the grooms of <Subject 5>, <Subject 6> and <Subject 7>, with <Subject 1> singing at the microphone.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - his face, black hair, moustache, crimson top hat and tailcoat are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): fully_preserved - her face, split black and red crimped hair, makeup and punk outfit are retained exactly as in <Picture 3>.
+<Subject 4> (appears in [Shot 1]): fully_preserved - each person's hair and bright 1980s outfit are retained as in <Picture 4>.
+<Subject 5> (appears in [Shot 1]): fully_preserved - both grooms' faces, hair and tuxedos are retained exactly as in <Picture 5>.
+<Subject 6> (appears in [Shot 1]): fully_preserved - the shaggy black gorilla suit, mask, red bow tie and party hat are retained exactly as in <Picture 6>.
+<Subject 7> (appears in [Shot 1]): fully_preserved - the box helmet, red eye slot, antennae, silver dial-covered torso, hose limbs and box boots are retained exactly as in <Picture 7>.
+<Subject 8> (appears in [Shot 1]): attribute_transfer - the painted skyline backdrop, checkerboard riser, red drum kit, amplifiers and lighting grid are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A wide frontal shot of <Subject 8> packed with everyone for the finale. <Subject 1> (S1) stands front and centre at the chrome microphone, <Subject 2> playing his white guitar at the left, <Subject 3> pounding the drums on the riser. Crowded around them the people of <Subject 4>, the two grooms of <Subject 5>, <Subject 6> in his gorilla suit and <Subject 7> in its cardboard robot costume all dance and sway with their arms in the air. At 00:02.300 he (S1) sings <d>[English] Save your fucks</d> At 00:06.500 he (S1) sings <d>[English] They're rare</d> At 00:09.900 he (S1) sings <d>[English] Spend with flair</d> and everyone throws their arms up. The camera is Static.
+
+overall_soundscape
+The band plays loud in a small television studio, the singer's voice through the PA, the room's hard walls ringing slightly.
+
+non_diegetic_music
+N/A

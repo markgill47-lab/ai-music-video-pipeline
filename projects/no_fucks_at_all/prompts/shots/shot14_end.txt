@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is the robot in <Picture 1>: a man in a homemade cardboard-box robot costume, a square box helmet with a red cellophane eye slot, a grille mouth and pipe-cleaner antennae, a silver box torso covered in bottle-cap dials, a tin-can speaker and Christmas-tree lights, dryer-vent hose arms and legs and box boots.
+<Subject 2> is the television studio in <Picture 2>: walls hung with huge hot pink, tangerine orange and turquoise curtains, a fresnel lighting grid, wooden audience bleachers and vintage pedestal cameras.
+
+summary
+[reference generation] The target video shows the whole studio of <Subject 2> after the show, a crowd dancing around the band stage while <Subject 1> walks slowly across the floor.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - the box helmet, red eye slot, antennae, silver dial-covered torso, hose limbs and box boots are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the bright curtains, lighting grid and wooden bleachers are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A high wide shot of the whole studio of <Subject 2> a happy crowd dances around the band stage with their arms in the air while the band plays out the song, the bright curtains and fresnel lights blazing. In the foreground, between the empty wooden bleachers and the stage, <Subject 1> walks slowly and stiffly across the concrete floor from left to right in its cardboard robot costume, box head swivelling to look at the camera once, antennae wobbling, and keeps walking. The camera is Static.
+
+overall_soundscape
+The band playing out the song, the crowd cheering, the clunk of cardboard boots.
+
+non_diegetic_music
+A bouncy new-wave rock instrumental with a driving beat.

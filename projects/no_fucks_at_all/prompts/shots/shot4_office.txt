@@ -1,0 +1,25 @@
+subject_definitions
+<Subject 1> is the singer in <Picture 1>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit with padded shoulders, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is the gold word in <Picture 2>: the word "FUCK" as a solid object, chunky rounded 1980s capital letters extruded in polished gold metal with bevelled edges, softly glowing, small enough to fit in the palm of a hand.
+<Subject 3> is the treasure chest in <Picture 3>: a shoebox-sized wooden chest with dark varnished wood and polished brass bands, corners and hasp, warm golden light pouring up from inside when its curved lid is open.
+<Subject 4> is the television studio office set in <Picture 4>: canary yellow plywood walls with painted-on windows showing a turquoise sky and cartoon skyline, a fire-engine red desk, an oversized beige desk telephone, a stack of paper, a blue filing cabinet, a painted wall calendar and a potted plastic palm.
+
+summary
+[reference generation] The target video shows <Subject 1> behind the red desk on <Subject 4>, singing to camera as he feeds gold words like <Subject 2> one by one into <Subject 3> and finally shuts the lid.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the gold letters spelling "FUCK", their chunky rounded shape and polished gold finish are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the wooden chest with brass bands and the golden light inside are retained exactly as in <Picture 3>.
+<Subject 4> (appears in [Shot 1]): attribute_transfer - the yellow walls, painted windows, red desk, beige telephone and blue filing cabinet are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A medium shot of <Subject 1> (S1) standing behind the red desk on <Subject 4>, framed from the waist up, <Subject 3> open on the desk in front of him with golden light pouring up out of it and lighting his face from below, several palm-sized gold words like <Subject 2> lying beside it. He sings to the camera throughout while he works, lips shaping every word, eyebrows lifting on the long notes. He (S1) sings <d>[English] So</d> At 00:01.900 he (S1) sings <d>[English] I tightened up my focus</d> and picks up one gold word, holding it up so the letters "FUCK" face the camera. At 00:03.800 he (S1) sings <d>[English] Locked it in a tiny box</d> and lowers it reverently into <Subject 3>, the glow flaring brighter. He picks up a second gold word, turns it admiringly in the light, and drops it in too. At 00:09.300 he (S1) sings <d>[English] Cause every fuck you give is one you'll never get back, friend</d> wagging a finger at the camera, then placing a third gold word inside. At 00:13.500 he (S1) sings <d>[English] Use them like they cost</d> and on the final word slams the lid of <Subject 3> shut, the golden light cut off, and gives the camera a smug, satisfied look. The camera is Static.
+
+overall_soundscape
+The band plays loud in a small television studio, the singer's voice through the PA, the room's hard walls ringing slightly.
+
+non_diegetic_music
+N/A

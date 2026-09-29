@@ -1,0 +1,12 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a 1980s public-access television music show, bright studio lighting, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A high wide establishing shot of the whole small television studio, matching <Picture 1> exactly at the opening frame: walls of hot pink, tangerine orange and turquoise curtains, a lighting grid packed with fresnel lamps, three plywood sets side by side, a cartoon bedroom with a hot pink cloud headboard on the left, the band stage with its painted cartoon skyline and checkerboard riser in the centre, and a cartoon office with yellow walls and a red desk on the right. Boxy pedestal cameras and cables stand on the concrete floor. In the foreground a few audience members in bright 1980s clothes sit on the wooden bleachers watching the stage, one nodding along, one clapping on the beat. On the band stage the singer in the purple suit bounces at the microphone, the guitarist in the crimson top hat and tailcoat strums a white electric guitar, and the drummer with split black and red hair pounds the red kit. The camera Trucks slowly to the right with a gentle Push, gliding past the bleachers and across the studio floor toward the band stage, the band growing larger in frame as the shot ends.
+
+overall_soundscape
+The band plays loud in the small studio, a few audience members clapping along.
+
+non_diegetic_music
+N/A

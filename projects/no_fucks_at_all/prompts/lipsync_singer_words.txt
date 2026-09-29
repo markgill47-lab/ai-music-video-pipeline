@@ -1,0 +1,8 @@
+integrated_multimodal_description
+Live-action, cinematic, a single continuous close-up of a male rock singer performing into a vintage chrome microphone on a stand, framed from the chest up, his face large in frame and turned three-quarters toward camera, his mouth fully visible above the microphone grille. He is in his late thirties, sharp cheekbones, dark stubble, messy dark hair pushed back and damp with sweat, a black shirt open at the collar. A warm amber spotlight from above left carves his face out of a dark stage, a cool blue rim light traces his hair and shoulder, haze drifts through the beams behind him. He sings with total conviction, jaw working hard, lips shaping every word clearly, brows lifting on the long notes, a small sardonic smile between lines. At 00:00.200 he (S1) sings <d>[English] So I filed it away</d> At 00:01.700 he (S1) sings <d>[English] Under nope, not now, not ever today</d> At 00:05.600 he (S1) sings <d>[English] Traffic was a circus, but I floated above</d> He leans into the microphone on the last line, eyes half closed. The camera is Static, locked off at eye level for the whole shot.
+
+overall_soundscape
+The band plays loud in a small club, the singer's voice carried through the PA, the crowd a distant murmur under the music.
+
+non_diegetic_music
+N/A

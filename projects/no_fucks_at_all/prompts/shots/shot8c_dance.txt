@@ -1,0 +1,25 @@
+subject_definitions
+<Subject 1> is the singer in <Picture 1>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit with padded shoulders, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is the television studio office set in <Picture 2>: canary yellow plywood walls with painted-on windows showing a turquoise sky and cartoon skyline, a fire-engine red desk, an oversized beige desk telephone, a stack of paper, a blue filing cabinet, a painted wall calendar and a potted plastic palm.
+<Subject 3> is the television studio band set in <Picture 3>: a hand-painted cartoon city skyline backdrop in turquoise, hot pink and lemon yellow with a jagged lightning bolt and painted stars, a black-and-white checkerboard riser with a red drum kit and two small amplifiers, a fresnel lighting grid overhead, black drapes, and a studio camera on a pedestal.
+<Subject 4> is the drummer in <Picture 4>: a punk woman with huge crimped 1980s hair split down the middle, jet black on her right side and bright red on her left, hot pink eyeshadow, silver hoops and a studded collar, in a leopard-print crop top and a red tartan vest. <Picture 4> is a character sheet of <Subject 4>, the same single person throughout.
+
+summary
+[reference generation] The target video shows <Subject 1> springing up from the office desk on <Subject 2> and dancing across the studio floor to the band stage <Subject 3>, singing all the way, arriving at the microphone on the last word.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the yellow walls, painted windows, red desk, beige telephone and blue filing cabinet are carried into the target video.
+<Subject 3> (appears in [Shot 1]): attribute_transfer - the painted skyline backdrop, checkerboard riser, red drum kit, amplifiers and lighting grid are carried into the target video.
+<Subject 4> (appears in [Shot 1]): fully_preserved - her face, split black and red crimped hair, makeup and punk outfit are retained exactly as in <Picture 4>.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A tracking shot across the television studio floor. <Subject 1> (S1) springs up out of the office chair on <Subject 2> and dances away across the grey concrete studio floor past pedestal cameras and cables, high-stepping, spinning, snapping his fingers and kicking his heels, heading for <Subject 3> where <Subject 4> is pounding the red drum kit on the checkerboard riser. He sings the whole way. At 00:00.250 he (S1) sings <d>[English] Traffic was a circus, but I floated above</d> At 00:04.100 he (S1) sings <d>[English] Cause giving zero fucks is a whole new kind of love</d> and leaps up onto the band stage, grabbing the chrome microphone stand on the word "love". The camera Tracks to the right with him at medium speed.
+
+overall_soundscape
+The band plays loud in a small television studio, the singer's voice through the PA, the room's hard walls ringing slightly.
+
+non_diegetic_music
+N/A

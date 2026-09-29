@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is the singer in <Picture 1>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit with padded shoulders, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is the television studio band set in <Picture 2>: a hand-painted cartoon city skyline backdrop in turquoise, hot pink and lemon yellow with a jagged lightning bolt and painted stars, a black-and-white checkerboard riser with a red drum kit and two small amplifiers, a fresnel lighting grid overhead, black drapes, and a studio camera on a pedestal.
+
+summary
+[reference generation] The target video shows a moving medium shot travelling along the dancing line of <Subject 1>, the people in bright 1980s outfits, the two grooms and the man in the gorilla suit on <Subject 2>.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the painted skyline backdrop, checkerboard riser, red drum kit, amplifiers and lighting grid are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A medium shot at waist height, close to the line of dancers at the front of <Subject 2>, starting on the woman with the blonde perm at the left end of the line. The dancers, arms linked over each other's shoulders, doing an exuberant high-energy chorus-line kick routine in perfect unison: they kick a leg high on every beat, left, right, left, right, bouncing and swaying hard together, throwing their heads back laughing, hair flying, the older woman's handbag swinging. The camera Tracks to the right along the line at medium speed, passing close by each dancer in turn: the moustached man in the red cap, the young man with the hi-top fade, the older woman in lavender, the teenage boy, then <Subject 1>, then the two grooms and finally the man in the gorilla suit kicking wildly at the end. <Subject 1> (S1) sings into a handheld microphone as he kicks. At 00:00.300 he (S1) sings <d>[English] Cause the world gets easier when there's nothing to spare</d> At 00:04.100 he (S1) sings <d>[English] Hold your precious fucks close</d> At 00:06.500 he (S1) sings <d>[English] Use them wisely, my friend</d> At 00:08.400 he (S1) sings <d>[English] Cause the ones you choose to give define you in the end</d> and everyone throws their arms up on "end".
+
+overall_soundscape
+The band plays loud in a small television studio, the singer's voice through the PA, the room's hard walls ringing slightly.
+
+non_diegetic_music
+N/A

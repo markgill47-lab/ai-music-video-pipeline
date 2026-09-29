@@ -1,0 +1,23 @@
+subject_definitions
+<Subject 1> is the guitarist in <Picture 1>: a tall thin man with long straight black hair and a curled waxed moustache, in a battered crimson top hat, a crimson tailcoat with gold braid, a black silk scarf and striped trousers. <Picture 1> is a character sheet of <Subject 1>, the same single person throughout.
+<Subject 2> is the drummer in <Picture 2>: a punk woman with huge crimped 1980s hair split down the middle, jet black on her right side and bright red on her left, hot pink eyeshadow, silver hoops and a studded collar, in a leopard-print crop top, a red tartan vest, a hot pink vinyl miniskirt, fishnets and neon green legwarmers. <Picture 2> is a character sheet of <Subject 2>, the same single person throughout.
+<Subject 3> is the television studio bedroom set in <Picture 3>: plywood walls painted with purple and yellow zigzags, a big hot pink cloud-shaped headboard, a bed with a turquoise and yellow polka-dot bedspread, lime green bedside tables with chunky orange lamps, a cardboard window with a painted night sky and smiling crescent moon, and a shaggy magenta rug.
+
+summary
+[reference generation] The target video shows <Subject 1> and <Subject 2> sitting up side by side in the bed on <Subject 3>, each furiously yelling into a corded telephone handset and ignoring the other.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, black hair, moustache, crimson top hat and tailcoat are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - her face, split black and red crimped hair, makeup and punk outfit are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): attribute_transfer - the zigzag walls, pink cloud headboard, polka-dot bed, green bedside tables, orange lamps and moon window are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A medium-wide shot of <Subject 3> with the studio's plywood flat edges, fresnel lamps and a pedestal camera visible at the sides of the frame. <Subject 1> and <Subject 2> sit up side by side in the bed with the polka-dot bedspread over their legs, still in their full band costumes, <Subject 1> on the left in his crimson top hat, <Subject 2> on the right. Each clutches a beige corded telephone handset, its curly cord stretching off the bed. They take turns ranting into their handsets in furious silent pantomime, eyes bulging, faces reddening, jabbing fingers at the receivers, shaking them, pressing them back to their ears, bouncing on the mattress in outrage to the beat of the music. <Subject 2> kicks her neon green legwarmers under the covers; <Subject 1> tips his top hat back and throws up his free hand in disbelief. The camera Pushes in with small amplitude at slow speed.
+
+overall_soundscape
+Muffled angry squawking from telephone earpieces, bedsprings creaking, the rustle of the bedspread.
+
+non_diegetic_music
+A bouncy new-wave rock instrumental with a driving beat.

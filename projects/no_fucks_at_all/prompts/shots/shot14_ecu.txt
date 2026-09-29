@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is the singer in <Picture 1>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit with padded shoulders, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is the television studio band set in <Picture 2>: a hand-painted cartoon city skyline backdrop in turquoise, hot pink and lemon yellow with a jagged lightning bolt and painted stars, a black-and-white checkerboard riser with a red drum kit and two small amplifiers, a fresnel lighting grid overhead, black drapes, and a studio camera on a pedestal.
+
+summary
+[reference generation] The target video shows an extreme close-up of <Subject 1> singing the final lines on <Subject 2>.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the painted skyline backdrop, checkerboard riser, red drum kit, amplifiers and lighting grid are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] An extreme close-up of <Subject 1> (S1): his face fills the frame from the red spikes to the chin, the red lenses of his glasses glowing, the painted skyline a blur of colour behind him. He waits, eyebrows twitching, then leans into the lens. At 00:02.300 he (S1) sings <d>[English] Save your fucks</d> wagging a finger. At 00:06.500 he (S1) sings <d>[English] They're rare</d> in a conspiratorial whisper-shout, eyes wide over the top of his glasses. At 00:09.900 he (S1) sings <d>[English] Spend with flair</d> with a huge crooked grin and a wink. The camera is Static.
+
+overall_soundscape
+The band plays loud in a small television studio, the singer's voice through the PA, the room's hard walls ringing slightly.
+
+non_diegetic_music
+N/A

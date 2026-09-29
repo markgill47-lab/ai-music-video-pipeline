@@ -1,0 +1,23 @@
+subject_definitions
+<Subject 1> is the singer in <Picture 1>: a gangly older man with a long bony face, beaky hooked nose, jug ears, pale blue eyes, highly arched eyebrows, fire-engine red spiked hair and small round red-lensed wire glasses, in a boxy oversized purple suit with padded shoulders, a black-and-white checkerboard shirt buttoned to the neck, a hot pink and turquoise daisy-print tie and an office ID badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is the guitarist dressed as a corporate boss in <Picture 2>: a tall thin man with long black hair slicked straight back and a curled waxed moustache, in a charcoal grey pinstripe double-breasted power suit with huge padded shoulders, a white shirt and a fat red power tie. <Picture 2> is a character sheet of <Subject 2>, the same single person throughout.
+<Subject 3> is the television studio office set in <Picture 3>: canary yellow plywood walls with painted-on windows showing a turquoise sky and cartoon skyline, a fire-engine red desk, an oversized beige desk telephone, a stack of paper, a blue filing cabinet, a painted wall calendar and a potted plastic palm.
+
+summary
+[reference generation] The target video shows <Subject 1> in the office chair on <Subject 3> singing as he drops the boss's papers into a wastepaper basket while <Subject 2> fumes.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, red spiked hair, red-lensed glasses, purple suit, checkerboard shirt and daisy tie are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - his face, slicked-back black hair, moustache, pinstripe power suit and red tie are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): attribute_transfer - the yellow walls, painted windows, red desk, beige telephone and blue filing cabinet are carried into the target video.
+
+detailed_description
+Live-action, a 1980s public-access television music video, flat bright studio light, hugely saturated candy colours, 35mm film grain.
+
+[Shot 1] A medium shot of <Subject 1> (S1) sitting in the swivel office chair behind the red desk on <Subject 3>, holding the sheaf of papers, <Subject 2> in his pinstripe suit standing at the edge of the desk, fists on hips, fuming. A small tin wastepaper basket sits on the floor beside the chair. At 00:00.200 he (S1) sings <d>[English] So I filed it away</d> dangling the papers over the wastepaper basket. At 00:01.700 he (S1) sings <d>[English] Under nope, not now, not ever today</d> and lets the papers drop into the basket with a flourish, dusting off his hands, while <Subject 2> gapes in outrage. The camera is Static.
+
+overall_soundscape
+The band plays loud in a small television studio, the singer's voice through the PA, the room's hard walls ringing slightly.
+
+non_diegetic_music
+N/A
