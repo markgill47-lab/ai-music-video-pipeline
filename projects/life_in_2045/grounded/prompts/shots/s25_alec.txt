@@ -1,0 +1,23 @@
+subject_definitions
+<Subject 1> is Steve in <Picture 1>: a white man of about sixty with a broad square face, heavy brows, grey-blue eyes, a slightly crooked nose, shaggy salt-and-pepper hair grown out over his ears and a short grey beard, in a worn brown leather flight jacket with a sheepskin collar over a navy henley, faded jeans and scuffed brown boots. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is Alec, Steve's teenage grandson, in <Picture 2>: a thin boy of seventeen with a long angular face, grey-blue eyes, heavy brows and messy dark brown hair falling over his forehead, in a faded black hoodie under a worn olive field jacket, black cargo trousers and grey high-top sneakers. <Picture 2> is a character sheet showing <Subject 2> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 3> is a small airport café of 2045: pale wooden tables by a tall window onto the runway, warm pendant lights in <Picture 3>.
+
+summary
+[reference generation] The target video shows Steve with his eyes closed, listening to a plane take off, when his grandson Alec sits down across from him.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, hair, beard and clothes are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - his face, hair, beard and clothes are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] At the window table in <Subject 3> in the evening, the window showing the lit runway under an open dusk sky, <Subject 1> sits with the open logbook, eyes closed, head tilted toward the window, listening to the sound of engines outside. At 00:05.000 <Subject 2> walks in from the left and drops into the empty chair across the table. <Subject 1> opens his eyes, sees his grandson, and a slow, surprised smile spreads across his face; <Subject 2> gives a small half-smile back. The camera is Static.
+
+overall_soundscape
+Café murmur, a plane climbing outside, a chair scraping.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is Steve in <Picture 1>: a white man of about sixty with a broad square face, heavy brows, grey-blue eyes, a slightly crooked nose, shaggy salt-and-pepper hair grown out over his ears and a short grey beard, in a worn brown leather flight jacket with a sheepskin collar over a navy henley, faded jeans and scuffed brown boots. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is a vast departure hall of 2045 at dusk with an enormous glowing wall of flight information in <Picture 2>.
+
+summary
+[reference generation] The target video shows travellers facing a giant glowing flight board like a congregation, and Steve at the back turned away.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, hair, beard and clothes are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] In <Subject 2> at dusk, rows of travellers stand still facing the enormous glowing flight board high above them, faces lit, like a congregation. The camera starts wide on the crowd and the board and slowly pulls back and pans right, Pull with medium amplitude at slow speed, until at 00:09.000 <Subject 1> in his brown leather flight jacket comes into the right foreground at the back of the crowd, the only one turned away from the board, looking out through the glass at the darkening sky. The camera holds on him to the end.
+
+overall_soundscape
+A hushed hall, a soft synthetic chime, distant engines.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

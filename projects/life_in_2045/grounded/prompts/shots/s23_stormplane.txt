@@ -1,0 +1,19 @@
+subject_definitions
+<Subject 1> is a white airliner flying through a towering night thunderstorm lit by lightning in <Picture 1>.
+
+summary
+[reference generation] The target video shows a pilotless airliner flying through a thunderstorm at night as lightning strikes.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] <Subject 1>: the white airliner flies steadily through the towering night storm, lights blinking, rain streaking past. A bolt of lightning strikes near the wing in a blinding flash; the plane shudders, its cabin windows flicker dark for an instant and come back, and it flies on into the clouds. The camera tracks alongside with small amplitude at slow speed.
+
+overall_soundscape
+Thunder cracking, rain, the roar of engines.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

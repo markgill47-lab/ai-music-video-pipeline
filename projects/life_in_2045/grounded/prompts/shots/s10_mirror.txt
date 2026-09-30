@@ -1,0 +1,23 @@
+subject_definitions
+<Subject 1> is Steve in <Picture 1>: a white man of about sixty with a broad square face, heavy brows, grey-blue eyes, a slightly crooked nose, shaggy salt-and-pepper hair grown out over his ears and a short grey beard, in a faded navy henley t-shirt, baggy washed-out navy shorts and worn brown slippers. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is Steve years earlier in <Picture 2>: an airline captain of about fifty-five with a broad square face, heavy brows, grey-blue eyes, short neat dark salt-and-pepper hair and a clean shave, in a navy captain's uniform jacket with four gold sleeve stripes and gold wings, a white shirt, a black tie and a black peaked cap with a gold badge. <Picture 2> is a character sheet showing <Subject 2> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 3> is Steve's small, tired bathroom: a white sink, a mirror over it, a frosted window in <Picture 3>.
+
+summary
+[reference generation] The target video shows Steve looking into his bathroom mirror; his reflection is himself years earlier in full captain's uniform.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, hair, beard and clothes are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - his face, hair, beard and clothes are retained exactly as in <Picture 2>.
+<Subject 3> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] In <Subject 3> in pale morning light, <Subject 1> stands at the sink seen from behind his shoulder, looking into the mirror. The reflection in the mirror is <Subject 2>, the captain in his navy uniform and peaked cap, standing tall and perfectly still, looking straight back at him. <Subject 1> slowly lifts a hand to his own beard, then lowers it and leans on the sink, shoulders dropping, while the reflection does not move at all, calm and upright. The camera pushes in over his shoulder toward the mirror with small amplitude at slow speed.
+
+overall_soundscape
+A dripping tap, the hum of a fan, morning quiet.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

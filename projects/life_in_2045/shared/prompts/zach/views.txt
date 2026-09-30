@@ -1,0 +1,8 @@
+Show the face in a neutral expression, looking straight into the camera.
+Rotate the camera 45 degrees to the left, show the man in three-quarter view.
+Rotate the camera 45 degrees to the right, show the man in three-quarter view.
+Rotate the camera 90 degrees to the left, show the man in profile.
+Rotate the camera 90 degrees to the right, show the man in profile.
+Show the face laughing warmly, eyes crinkled.
+Show the face worried, brows drawn together, looking just past the camera.
+Show the face listening kindly, head tilted slightly.

@@ -1,0 +1,19 @@
+subject_definitions
+<Subject 1> is Steve's modest single-storey suburban house at dawn, a porch light on, a jet crossing the sky above in <Picture 1>.
+
+summary
+[reference generation] The target video shows Steve's quiet suburban house at dawn as an airliner crosses the sky above it.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] <Subject 1> at dawn, pale pink and gold sky, the porch light still on and one window glowing. High above the roof a white airliner crosses the sky steadily from left to right, trailing a thin contrail. A light breeze stirs the lawn. The camera pushes in with small amplitude at slow speed toward the lit window.
+
+overall_soundscape
+Dawn quiet, birds, the far-off rumble of a jet.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

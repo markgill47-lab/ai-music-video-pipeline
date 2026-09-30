@@ -1,0 +1,2 @@
+Rotate the camera 90 degrees to the right, show the man in profile facing right.
+Turn the camera to show the right side of his face in a clean side profile, his nose pointing to the right edge of the frame.

@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is Steve years earlier in <Picture 1>: an airline captain of about fifty-five with a broad square face, heavy brows, grey-blue eyes, short neat dark salt-and-pepper hair and a clean shave, in a navy captain's uniform jacket with four gold sleeve stripes and gold wings, a white shirt, a black tie and a black peaked cap with a gold badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is an airliner cockpit in flight around 2015, glass displays and side-sticks, sunlit cloud tops ahead in <Picture 2>.
+
+summary
+[reference generation] The target video shows Captain Steve, years earlier, flying an airliner above sunlit clouds, content.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, hair, beard and clothes are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a memory from years earlier, warm and golden, saturated colour, 35mm film grain, nobody speaks.
+
+[Shot 1] In <Subject 2>, high above brilliant sunlit cloud tops, <Subject 1> sits in the left pilot seat in his captain's uniform and cap, one hand resting easily on the side-stick. He glances at the instruments, then turns toward the right seat with a broad, easy smile and a small nod, completely at home. Warm sunlight moves across the controls. The camera pushes in with small amplitude at slow speed.
+
+overall_soundscape
+The deep hum of the cockpit, the rush of air past the windscreen, a soft chime.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

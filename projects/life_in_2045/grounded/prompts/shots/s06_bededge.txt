@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is Steve in <Picture 1>: a white man of about sixty with a broad square face, heavy brows, grey-blue eyes, a slightly crooked nose, shaggy salt-and-pepper hair grown out over his ears and a short grey beard, in a faded navy henley t-shirt, baggy washed-out navy shorts and worn brown slippers. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is Steve's modest bedroom: an unmade bed with a faded patchwork quilt, a wooden dresser with a mirror, a framed aerial photograph of clouds, half-open blinds in <Picture 2>.
+
+summary
+[reference generation] The target video shows Steve sitting slumped on the edge of his bed, the badge in his hand.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, hair, beard and clothes are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] In <Subject 2> in morning light, <Subject 1> sits on the edge of the unmade bed facing the camera, forearms on his knees, the small silver badge loose in one hand. He stares at the floor, lets out a long breath, rubs his face with his free hand and stays there, shoulders down. The camera is Static.
+
+overall_soundscape
+Morning quiet, a clock ticking, a far-off jet.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

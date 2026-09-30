@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is Steve in <Picture 1>: a white man of about sixty with a broad square face, heavy brows, grey-blue eyes, a slightly crooked nose, shaggy salt-and-pepper hair grown out over his ears and a short grey beard, in a worn brown leather flight jacket with a sheepskin collar over a navy henley, faded jeans and scuffed brown boots. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is a long chain-link perimeter fence beside a grassy verge and footpath at the edge of a vast airport in <Picture 2>.
+
+summary
+[reference generation] The target video shows a close-up of Steve's face at the airport fence as a jet's roar washes over him.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, hair, beard and clothes are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] A close-up of <Subject 1> behind the wire of <Subject 2>, looking up past the camera at the sky. The noise of a jet washes over him; his eyes are wet, his jaw tight, and he swallows and keeps looking up. The camera is Static.
+
+overall_soundscape
+A jet roaring close overhead, wind.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

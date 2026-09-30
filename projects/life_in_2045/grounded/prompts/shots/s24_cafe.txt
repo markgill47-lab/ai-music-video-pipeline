@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is Steve in <Picture 1>: a white man of about sixty with a broad square face, heavy brows, grey-blue eyes, a slightly crooked nose, shaggy salt-and-pepper hair grown out over his ears and a short grey beard, in a worn brown leather flight jacket with a sheepskin collar over a navy henley, faded jeans and scuffed brown boots. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is a small airport café of 2045: pale wooden tables by a tall window onto the runway, warm pendant lights in <Picture 2>.
+
+summary
+[reference generation] The target video shows Steve alone at a café table in the terminal with his old logbook, watching planes.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, hair, beard and clothes are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] In <Subject 2> in the warm evening light, <Subject 1> sits alone at the window table with an old leather logbook open in front of him and a cup of coffee, turning a page slowly, then looking out of the window at an airliner taking off. Behind him, kids with rolling luggage pass by, their faces lit by glowing screens. The camera pushes in with small amplitude at slow speed.
+
+overall_soundscape
+Café murmur, a coffee machine, rolling luggage, a plane taking off outside.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

@@ -1,0 +1,8 @@
+Show the face in a neutral expression, looking straight into the camera.
+Rotate the camera 45 degrees to the left, show the man in three-quarter view.
+Rotate the camera 45 degrees to the right, show the man in three-quarter view.
+Rotate the camera 90 degrees to the left, show the man in profile.
+Rotate the camera 90 degrees to the right, show the man in profile.
+Show the face staring into the distance, eyes glassy, jaw tight, holding back grief.
+Show the face with a faint, sad, polite smile, eyes tired.
+Show the face looking up at the sky, squinting, lips slightly parted in quiet longing.

@@ -1,0 +1,19 @@
+subject_definitions
+<Subject 1> is the cockpit of a pilotless airliner of 2045: two empty pale seats and one seamless glowing display in <Picture 1>.
+
+summary
+[reference generation] The target video shows the empty cockpit of a pilotless airliner of 2045, flying itself.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] In <Subject 1>, high above bright clouds, the two pale pilot seats are empty. The seamless display glows and scrolls softly, small controls move by themselves, the view tilts gently as the plane banks. The camera pushes in with medium amplitude at slow speed toward the empty left seat.
+
+overall_soundscape
+The deep hum of the cockpit, a soft automated tone, air rushing past.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

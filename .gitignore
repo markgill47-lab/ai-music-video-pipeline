@@ -24,3 +24,8 @@ projects/*/out/upscale_full/
 _reorganize.py
 _reorganize.log
 _release/
+
+# Life in 2045: the full album and synopsis stay local; each video commits only its own song
+projects/life_in_2045/album/
+projects/**/out/edit/
+projects/**/out/upscale/

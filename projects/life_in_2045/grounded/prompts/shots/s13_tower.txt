@@ -1,0 +1,19 @@
+subject_definitions
+<Subject 1> is an empty airport control tower cab of 2045: slanted glass windows, pale consoles, unused headsets on hooks in <Picture 1>.
+
+summary
+[reference generation] The target video shows an empty airport control tower of 2045 running itself.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] Inside <Subject 1> in morning light, not a single person: the pale consoles scroll with handoff sequences and flight tags, empty chairs sit pushed in, a row of old headsets hangs unused on hooks, and through the slanted windows an airliner lands on the runway far below. The camera arcs slowly around the room with medium amplitude at slow speed.
+
+overall_soundscape
+Soft automated radio chatter, synthetic handoff tones, the hum of equipment.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

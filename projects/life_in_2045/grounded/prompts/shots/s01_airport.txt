@@ -1,0 +1,19 @@
+subject_definitions
+<Subject 1> is a vast, spotless airport of the year 2045 at dawn, a curved glass terminal and white airliners in <Picture 1>.
+
+summary
+[reference generation] The target video shows a vast, silent airport of 2045 at dawn as a pilotless airliner takes off.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] A wide view across <Subject 1> at dawn, pale pink and gold sky, mist over the grass. A single white airliner rolls along the distant runway, gathers speed and lifts smoothly into the sky, its lights blinking. Nothing else moves; no people anywhere on the apron. The camera pushes in with small amplitude at slow speed toward the glowing glass terminal.
+
+overall_soundscape
+Distant jet engines rising to a roar and fading, birdsong, a faint wind.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

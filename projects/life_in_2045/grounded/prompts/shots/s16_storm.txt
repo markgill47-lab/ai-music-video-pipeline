@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is Steve years earlier in <Picture 1>: an airline captain of about fifty-five with a broad square face, heavy brows, grey-blue eyes, short neat dark salt-and-pepper hair and a clean shave, in a navy captain's uniform jacket with four gold sleeve stripes and gold wings, a white shirt, a black tie and a black peaked cap with a gold badge. <Picture 1> is a character sheet showing <Subject 1> full-length from several angles above close-ups of his face, the same single person throughout.
+<Subject 2> is an airliner cockpit at night in a storm around 2015, rain on the windscreen, runway lights ahead in <Picture 2>.
+
+summary
+[reference generation] The target video shows Captain Steve, years earlier, fighting a crosswind landing at night in a storm.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - his face, hair, beard and clothes are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a memory from years earlier, warm and golden, saturated colour, 35mm film grain, nobody speaks.
+
+[Shot 1] In <Subject 2> at night in a violent thunderstorm: heavy rain streams and splatters across the windscreen the whole time, the wipers sweep, and bright white lightning flashes every few seconds, lighting the clouds and the whole cockpit. Ahead through the rain the runway approach lights swing left and right as the plane is thrown by the crosswind. <Subject 1> in his captain's uniform, without his cap, seen from behind and to the right, grips the side-stick and works the throttles, jaw set, eyes locked on the runway, correcting hard as the cockpit rocks and yaws in the gusts. A lightning flash lights his face. The camera Shakes with medium amplitude.
+
+overall_soundscape
+Rain hammering the windscreen, thunder, the roar of engines, warning chimes.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

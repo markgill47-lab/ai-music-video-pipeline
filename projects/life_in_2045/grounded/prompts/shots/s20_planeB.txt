@@ -1,0 +1,19 @@
+subject_definitions
+<Subject 1> is the cabin of a late-2030s airliner: white shell seats with teal upholstery, white bins with a cyan light line, an open cockpit door at the far end of the aisle in <Picture 1>.
+
+summary
+[reference generation] The target video shows an ordinary moment mid-flight in <Subject 1>: a flight attendant hands a passenger a bag of peanuts, then the camera glides forward up the aisle to the front of the plane.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] Mid-flight in <Subject 1>, bright daylight through the windows. The camera looks forward toward the cockpit, and every passenger in every row sits facing the front of the plane, so the camera sees the backs of their heads above the seat backs all the way up the aisle. A tall Black flight attendant with a neat low bun, in a pale grey high-collared tunic uniform with a teal sash and a small glowing badge, stands in the aisle a few rows ahead of the camera and leans down to hand a small bag of peanuts to an elderly white man with white hair and round tortoiseshell glasses in the left aisle seat; he takes it and smiles up at her, and she smiles back and straightens. A young East Asian woman with a black bob, a bald man with a ginger beard and a freckled girl with red braids sit further up the aisle, and the open cockpit door is visible at the far end of the one continuous cabin. At 00:03.000 the camera rises slightly and glides slowly forward up the aisle past the attendant, the backs of the seats and the backs of the passengers' heads sliding by on both sides as it overtakes each row from behind, Push with medium amplitude at slow speed, the same cockpit door growing steadily larger straight ahead the whole way. At 00:12.500 the camera reaches the door and moves through it: through the open cockpit door into the cockpit, where both pilot seats are empty and the controls move by themselves, bright clouds streaming past the windscreen. The camera holds there to the end.
+
+overall_soundscape
+The steady roar of the engines, the hiss of the air vents, a soft cabin chime.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

@@ -1,0 +1,19 @@
+subject_definitions
+<Subject 1> is the empty cockpit of a pilotless airliner of 2045 at night in a storm, rain on the windscreen in <Picture 1>.
+
+summary
+[reference generation] The target video shows the empty cockpit of a pilotless airliner in a storm as its screens flicker.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] In <Subject 1> at night, rain streams down the outside of the windscreen and lightning flashes in the clouds ahead. The two pilot seats are empty. A close lightning flash whites out the view, and the glowing display flickers and goes dark for a moment, leaving the empty seats lit only by the storm, then blinks back on. The camera is Static.
+
+overall_soundscape
+Thunder, rain drumming on the glass, an electronic tone cutting out and returning.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

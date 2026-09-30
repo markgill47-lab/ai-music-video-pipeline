@@ -1,0 +1,8 @@
+Show the face in a neutral expression, looking straight into the camera.
+Rotate the camera 45 degrees to the left, show the young man in three-quarter view.
+Rotate the camera 45 degrees to the right, show the young man in three-quarter view.
+Rotate the camera 90 degrees to the left, show the young man in profile.
+Rotate the camera 90 degrees to the right, show the young man in profile.
+Show the face lit up with a sudden fierce, hungry excitement, eyes bright.
+Show the face sullen and withdrawn, eyes down, jaw clenched.
+Show the face frightened and close to tears, eyes wide and wet.

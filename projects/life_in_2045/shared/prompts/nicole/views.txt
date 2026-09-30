@@ -1,0 +1,8 @@
+Show the face in a neutral expression, looking straight into the camera.
+Rotate the camera 45 degrees to the left, show the woman in three-quarter view.
+Rotate the camera 45 degrees to the right, show the woman in three-quarter view.
+Rotate the camera 90 degrees to the left, show the woman in profile.
+Rotate the camera 90 degrees to the right, show the woman in profile.
+Show the face intensely focused, eyes narrowed slightly, listening to something only she can hear.
+Show the face in dawning horror, eyes wide, lips parted, the colour drained from her face.
+Show the face with a small, confident half-smile, one eyebrow slightly raised.

@@ -742,6 +742,94 @@ Tested on 3 s (72 f) of shot 4, 1120x640:
 
 - No added flicker (frame-to-frame diff 1.6 vs 1.24 source, same as detail gain).
 
+## 12. Families and multi-era casting (Grounded, 2026-09-29)
+
+Character work for *Life in 2045* (recurring family across an album; a plane sequence
+repeated in three eras with the same cast). All Flux 2 Klein 9B at 6-8 steps, Krea 2 at 8.
+
+- **Relatives from a parent's face.** "Show his son instead: ... clearly inherited his
+  face, the same heavy brows, grey-blue eyes, slightly crooked nose" on the grandfather's
+  face gave four sons who read as related at a glance, and a "daughter" who did too. The
+  flip side: a face derived from one character carries his brows and eyes, so a spouse
+  must NOT be derived from her husband's family (she'd look like his sister). Give
+  in-laws a fresh Krea face.
+- **A child from both parents in one pass works.** Flux multi-reference with the father
+  and mother faces as images 2 and 3 and "their son ... his father's brows, grey-blue eyes
+  and nose, his mother's angular face and cheekbones" gave four near-identical boys who
+  visibly took after both. A single-parent derivation read androgynous and too close to
+  the mother.
+- **Krea costume sheets drift the face and hair.** Body sheets from a face sheet grew the
+  hair to the collar and narrowed the face. Fixed by a Flux multiref pass: image 1 the
+  body sheet, images 2-3 the face sheet and master face, "keep image 1 exactly, change only
+  his head in every view". Side effect: grey stubble grew into a short beard.
+- **Flux angle sheets: 7-8 of 8 hold.** Right profile was the usual failure (hair grew,
+  face changed); a re-roll phrased "a clean side profile, nose pointing to the right edge
+  of the frame" fixed it. A big grin makes Flux de-age a face by ~10 years.
+- **Era restyling of a group loses identities unless each person is named.** "Dress them
+  for the 2040s ... the flight attendant ... her hair in the same low bun" turned the Black
+  flight attendant into a white woman in both eras. A second Flux multiref pass (restyled
+  lineup + original lineup, "give each person the face of the matching person in image 2")
+  swung the other way and restored the original clothes. What worked: a single-reference
+  edit whose prepend names every person's identity explicitly ("the tall Black woman with
+  warm brown skin and a neat low bun keeps her exact face and skin; the elderly white man
+  with ...") and says "changing only their clothes". 4/4 held.
+- **Set redress keeps geometry.** "Keep the exact same camera position, lens, perspective,
+  aisle, seat rows, window positions and cabin geometry" + an era restyle kept one cabin
+  aligned across three eras, including replacing the cockpit bulkhead with a nose window.
+  A mild restyle (2030s) came back too close to the original; name colours and materials
+  to force a visible difference.
+- **Multiref first frames with the same prompt skeleton match across eras.** One hand-off
+  prompt on three redressed cabins + three era lineups gave three compositions with the
+  attendant, passenger and aisle in nearly the same places.
+
+- **A lineup sheet as a reference still makes H3 open on it, even with a first frame pinned.**
+  Plane A v1 (refs: cast lineup, pilot sheet, cabin plate; start and end frames pinned by
+  AddGuide) spent its first 2.5 s on the grey lineup sheet. Dropping both sheets and keeping
+  only the cabin plate, with the people carried by the pinned start/end frames and described in
+  prose, fixed it on the next take, and identities still held (they come from the frames).
+- **Check which way the crowd faces in a first frame.** A forward-looking cabin shot came back
+  from Flux with every passenger's face turned to the camera over the seat backs, i.e. sitting
+  backwards; nobody noticed until the render (the user did). Spell out "every passenger faces
+  the front of the plane, the camera sees the backs of their heads". H3 then also invented
+  backwards-facing rows as the camera advanced (take 2) until the shot prose said the same
+  thing and described the camera "overtaking each row from behind" (take 3).
+- **Start + end frame pinning carries a long dolly move.** 15 s up an aisle into the cockpit,
+  both ends pinned, the pilot-on-phone ending landed exactly as framed. Midway H3 passed a
+  bulkhead into a second cabin section, which reads as a natural wipe.
+
+- **Grounded first pass: 28 shots, 23 kept on the first render.** Failures: the storm
+  flashback rendered as a calm dusk runway (fixed by describing rain, wipers and lightning
+  "the whole time" / "every few seconds"); the departure-hall reveal lost Steve after 2 s
+  (fixed by pinning the empty hall at frame 0 and Steve's framing at the last frame); an
+  apron shot's radar dome morphed into a square antenna in all three takes, even after
+  "sits motionless" (worked around in the edit: its clean first 3.6 s at half speed with
+  `minterpolate` motion interpolation). Words like "turns" on an object invite H3 to
+  transform it.
+- **H3 adds its own cuts in single-subject shots** (fence close-up → through-the-wire
+  close-up; wide fence → medium on Steve). Usually usable as coverage; check before re-rolling.
+
+- **User review of rough cut v1, and what fixed each note:**
+  - *A long dolly outruns its destination.* Planes A and B: the cockpit door visible at the
+    start "warped" into a second cabin because the camera reached the front at ~8 s and H3 had
+    to fill the rest before the pinned end frame. Slowing the push ("glides slowly", "Push with
+    medium amplitude at slow speed", "the same cockpit door growing steadily larger the whole
+    way", arrival stated at 00:12.500 of 15 s) gave one continuous cabin on both.
+  - *Planes in the sky move like models on a string* when the plane is the subject of the
+    motion: a plane "flying through a storm" rotated in place against a frozen lightning bolt,
+    and planes "climbing" outside café windows hung and drifted. What worked: the camera
+    moves, the plane "holds a steady, level course" (camera overtakes it, Truck), rain and
+    "lightning flashing in different places every few seconds"; and a plate without a painted
+    bolt. Distant takeoffs across a runway (fence shots, night takeoff roll) were fine.
+    Planes seen through windows: remove them from the frame and cut to a separate exterior.
+  - *Props need a reference image.* "Small silver captain's name badge" rendered as a police
+    shield in two shots. A Krea prop plate of a crew ID card as its own `<Subject>` with
+    `fully_preserved` and "CAPTAIN" quoted held in both re-renders (first frames rebuilt
+    with the prop as a Flux multiref input).
+  - *Terminal interiors seen through glass decay* (an airport's lit interior became a parking
+    lot mid-shot): cut long establishing shots in half and add a second angle.
+  - Adding a prop reference to a character shot made H3 cut straight to an insert of the
+    prop on one seed; the next seed kept the pinned composition.
+
 ## 10. Toolkit
 
 Shared scripts live in `tools/`; the music-video project scripts (`queue_act2.py`,

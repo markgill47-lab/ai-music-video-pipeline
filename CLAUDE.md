@@ -13,6 +13,11 @@ one per folder under `projects/`.
 - The `music-video-pipeline` skill (`.claude/skills/`) summarises the workflow and the
   lessons that were expensive to learn.
 - `projects/no_fucks_at_all/` — the complete worked example to copy from.
+- `projects/life_in_2045/` — the concept album *Life in 2045*. `shared/refs/` holds the recurring family
+  (Steve, Zach, Nicole, Alec: face masters, face sheets, body sheets, combos); `grounded/` is track 1,
+  finished (no singer, instrumental pinned on every shot; `queue_shots.py` uses beat-index slots,
+  `assemble.py` picks takes, `upscale_shots.py` caches per shot). The album mp3s and synopsis live in
+  `album/`, gitignored. The Grounded video is kept local, not released.
 
 ## Starting a new video
 

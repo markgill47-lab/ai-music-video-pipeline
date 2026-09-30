@@ -1,0 +1,21 @@
+subject_definitions
+<Subject 1> is the cabin crew and passengers in <Picture 1>: a tall Black flight attendant of about thirty-five with a neat low bun, an elderly white man with a shock of white hair and round tortoiseshell glasses, a young East Asian woman with a sleek black bob, a heavyset bald man with a ginger beard, and a freckled girl of about nine with two red braids holding a stuffed rabbit; the attendant in an elegant cream wrap uniform with a soft gold collar. <Picture 1> is a lineup of these five people, the same individuals throughout.
+<Subject 2> is an airline crew briefing room of 2045: a pale oval table, white chairs, a wall screen, glass wall onto the apron in <Picture 2>.
+
+summary
+[reference generation] The target video shows a cabin crew being briefed by a wall screen in 2045; the captain's line on the roster is blank.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): fully_preserved - each person's face, hair, skin and clothes are retained exactly as in <Picture 1>.
+<Subject 2> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] In <Subject 2> in morning light, the tall Black flight attendant from <Subject 1> in her cream uniform and three other flight attendants in identical cream uniforms walk in and sit around the pale oval table, facing the wall screen, which shows a flight plan and a crew roster where the captain's line is empty. They nod along, relaxed and routine. An airliner waits at the gate through the glass wall. The camera trucks left with small amplitude at slow speed.
+
+overall_soundscape
+A quiet room, the soft tone of the screen, muffled jet engines outside.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

@@ -1,0 +1,19 @@
+subject_definitions
+<Subject 1> is a white airliner flying level through a night thunderstorm in heavy rain, seen from behind its wing in <Picture 1>.
+
+summary
+[reference generation] The target video shows the camera flying past a pilotless airliner in a night thunderstorm in heavy rain.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] <Subject 1>: the white airliner holds a steady, level course through the storm while the camera flies alongside and slowly overtakes it from behind the wing toward the nose, Truck left with medium amplitude at medium speed. Heavy rain streaks diagonally past the camera the whole time, water sheets off the wing, and lightning flashes in different places among the clouds every few seconds, each flash lighting the wet fuselage and then fading.
+
+overall_soundscape
+Rain roaring, thunder, the drone of engines.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.

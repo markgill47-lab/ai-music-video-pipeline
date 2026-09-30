@@ -1,0 +1,19 @@
+subject_definitions
+<Subject 1> is the top of Steve's wooden dresser: gold pilot's wings, a silver captain's badge, a black captain's cap, a framed photograph of a pilot in front of a jet, a leather logbook in <Picture 1>.
+
+summary
+[reference generation] The target video shows the top of Steve's dresser: his pilot's wings, cap, badge and an old photograph.
+
+retention_analysis
+<Subject 1> (appears in [Shot 1]): attribute_transfer - the layout, surfaces, colours and light of the location are carried into the target video.
+
+detailed_description
+Live-action, a quiet, naturalistic drama set in the near future of 2045, soft warm natural light, clean pale surfaces, 35mm film grain, nobody speaks.
+
+[Shot 1] A close view along the top of <Subject 1> in soft morning window light: the gold pilot's wings, the silver captain's badge, the black captain's cap with its gold badge, the framed photograph of a pilot in front of a jet, the leather logbook, dust drifting in the sunbeam. The camera trucks right with small amplitude at slow speed along the dresser top.
+
+overall_soundscape
+Morning quiet, a clock ticking, birds outside.
+
+non_diegetic_music
+A slow, aching rock instrumental with a steady drum beat.
