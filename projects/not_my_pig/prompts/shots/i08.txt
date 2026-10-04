@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] Close on a woman with deep brown skin, big brunette curls and purple eyeshadow, in purple sunglasses, on a sunny stoop. On the beat she pushes the sunglasses up into her curls with one finger and gives the lens a slow, knowing smile. The camera is Static.
+
+overall_soundscape
+Busy city street: traffic, horns, footsteps, distant sirens.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

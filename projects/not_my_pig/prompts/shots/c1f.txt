@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] Sudden heavy rain pours down a city sidewalk and people run for cover hunched over with their jackets pulled up over their heads. A woman with deep brown skin, big brunette curls and purple eyeshadow, dry under an open purple umbrella whose handle she holds in her left hand, her coffee cup in her right hand, faces the camera and sings. She (S1) sings <d>[English] Not my storm… not my sky. Not my reason why.</d> her lips shaping every word clearly, cool and unbothered. The camera is Static.
+
+overall_soundscape
+Heavy rain, people shrieking, splashing footsteps.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

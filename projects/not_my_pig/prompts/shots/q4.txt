@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] At her desk a woman with deep brown skin, big brunette curls and purple eyeshadow, in a violet power suit, sits perfectly composed and sings to the lens while chaos runs past behind her cubicle wall, papers flying. She (S1) sings <d>[English] But I sharpened up my boundaries</d> her lips shaping every word clearly, cool and unbothered. The camera is Static.
+
+overall_soundscape
+Office chaos: shrieks, a squealing piglet.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

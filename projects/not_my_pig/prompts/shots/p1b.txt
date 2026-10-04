@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] In a coffee shop queue, the red-faced man turns to a woman with deep brown skin, big brunette curls and purple eyeshadow for backup, palms up, pleading. She gives the lens a sweet, blank smile and sings. She (S1) sings <d>[English] It'll brand your heart with somebody else's care</d> her lips shaping every word clearly, cool and unbothered. The camera is Static.
+
+overall_soundscape
+Coffee shop: espresso machine hissing, chatter.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] A small pink piglet in a red harness races down an office corridor toward the camera; workers shriek and leap onto their chairs, papers flying, and a grey-haired man in a striped bathrobe sprints after it with his arms out. The camera is handheld and follows the action.
+
+overall_soundscape
+Screaming, squealing piglet, papers flying.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

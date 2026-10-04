@@ -29,3 +29,9 @@ _release/
 projects/life_in_2045/album/
 projects/**/out/edit/
 projects/**/out/upscale/
+
+# Chamber promo: personal footage and a named presenter; stays local
+projects/chamber_promo/
+
+# Not my Pig: first frames superseded during review rounds stay local
+projects/not_my_pig/frames/v1/

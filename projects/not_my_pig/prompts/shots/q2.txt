@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] A woman with deep brown skin, big brunette curls and purple eyeshadow, in a violet power suit, walks toward the camera down an office corridor between rows of workers hunched over their phones; none of them look up. She (S1) sings <d>[English] Trying hard to snag your mind — you bite once, you're stuck</d> her lips shaping every word clearly, cool and unbothered. The camera tracks backward in front of her as she walks toward it, Tracking with small amplitude at slow speed.
+
+overall_soundscape
+Office: notification pings, phones buzzing.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

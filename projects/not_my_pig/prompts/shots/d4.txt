@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] At night a fire hydrant shoots a tall white geyser into the air and water floods across the street; a woman with deep brown skin, big brunette curls and purple eyeshadow, in a cropped purple leather jacket, steps neatly around the water toward the camera without looking at it. The camera is Static.
+
+overall_soundscape
+Water gushing, splashing.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

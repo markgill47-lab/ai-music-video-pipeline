@@ -2,11 +2,14 @@
 
 A local, open-model pipeline for making music videos: characters, sets, lip-synced and
 beat-synced performance, vignettes, edit and upscale, all driven by the song. Built and
-measured while making **[No Fucks at All](projects/no_fucks_at_all/)** by karnivore23, a
-4-minute 1980s public-access-TV music video rendered on a single RTX 5090.
+measured on one RTX 5090 while making music videos for songs by karnivore23:
 
-▶ **Watch it:** see the [latest release](../../releases/latest) for the finished video
-(2240×1280, upscaled), the 1120×640 edit and every rendered shot.
+| Video | Style | Watch |
+|---|---|---|
+| **[No Fucks at All](projects/no_fucks_at_all/)** | 1980s public-access TV: a band, vignettes, lip sync and dancing (4:01) | [v1.0](../../releases/tag/v1.0) |
+| **[Not my Pig, Not my Farm](projects/not_my_pig/)** | glossy late-90s R&B video: one singer strolls through a city having the worst day of its life (4:01, 71 five-second shots) | [not-my-pig-v1.0](../../releases/tag/not-my-pig-v1.0) |
+
+Each release has the finished video (2240×1280, upscaled), the 1120×640 edit and the shot renders.
 
 | | |
 |---|---|
@@ -43,9 +46,15 @@ projects/
     queue_act2.py        spec table -> slices audio, stages refs, queues H3 renders
     assemble_full.py     beat-aligned edit decision list -> full cut over the song
     upscale_full.py      segmented SeedVR2 upscale of a finished cut
+  not_my_pig/            the second video: 5-second shots from Flux first frames
+    shots.py             the shot list as data (writes SHOTLIST.md)
+    frames.py            first frames: one master per place, angles derived from it, fix passes
+    queue_shots.py       H3 fl2va per shot with the song slice pinned; takes.py picks renders
+    assemble.py          beat-slot edit over the song; upscale_shots.py caches the 2x per shot
 ```
 
-Each new video goes in its own `projects/<name>/` folder.
+Each new video goes in its own `projects/<name>/` folder. For a song told as many short vignettes, start from
+`not_my_pig/` ([PIPELINE.md, 5-second variant](docs/PIPELINE.md#variant-5-second-clips-from-first-frames-not-my-pig-not-my-farm)).
 
 ## Requirements
 
@@ -56,13 +65,13 @@ templates from the ComfyUI gallery by name; adjust the paths for your machine.
 
 ## License
 
-**Public domain — [CC0 1.0](LICENSE).** Code, docs, prompts, reference images, the song,
-its stems and the finished video are all free to use, modify and redistribute for any
+**Public domain — [CC0 1.0](LICENSE).** Code, docs, prompts, reference images, the songs,
+their stems and the finished videos are all free to use, modify and redistribute for any
 purpose, commercial or not, with no attribution required. Two third-party files (a face
 detector model and a workflow template) are MIT-licensed; see
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ## Credits
 
-Song, lyrics and creative direction: karnivore23. Pipeline and tooling built
+Songs, lyrics and creative direction: karnivore23. Pipeline and tooling built
 in collaboration with Claude (Anthropic) in Claude Code.

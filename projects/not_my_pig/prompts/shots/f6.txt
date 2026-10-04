@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] A woman with deep brown skin, big brunette curls and purple eyeshadow, in a cropped purple leather jacket, strikes a final pose with one hand on her hip and her chin up, the whole dance line behind her snapping into a V with their arms thrown up, and a huge burst of orange sparks fans out across the night sky behind them. She (S1) sings <d>[English] And that's the end of that.</d> her lips shaping every word clearly, cool and unbothered. The camera pushes in with small amplitude at slow speed.
+
+overall_soundscape
+A burst of sparks, a cheer.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

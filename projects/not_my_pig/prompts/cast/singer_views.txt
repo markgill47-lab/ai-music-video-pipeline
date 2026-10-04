@@ -1,0 +1,8 @@
+Show the face in a calm, relaxed expression, looking straight into the camera.
+Rotate the camera 45 degrees to the left, show the woman in three-quarter view.
+Rotate the camera 45 degrees to the right, show the woman in three-quarter view.
+Rotate the camera 90 degrees to the left, show the woman in a clean side profile, her nose pointing to the left edge of the frame.
+Rotate the camera 90 degrees to the right, show the woman in a clean side profile, her nose pointing to the right edge of the frame.
+Show the face with a sly, unbothered half-smile and one eyebrow raised high.
+Show the face singing, mouth wide open on a strong note, eyes bright.
+Show the face rolling her eyes up toward the ceiling with a small amused smirk.

@@ -16,6 +16,9 @@ Read before acting:
 - `projects/no_fucks_at_all/` — a complete worked example: `SHOTLIST.md`, the spec table
   in `queue_act2.py`, the edit list in `assemble_full.py`, prompt generators in
   `prompts/shots/`.
+- `projects/not_my_pig/` — the 5-second-clip variant (PIPELINE.md, "Variant"): `shots.py` →
+  `frames.py` → `queue_shots.py` → `assemble.py`/`takes.py` → `upscale_run.sh`. The better
+  starting point for a vignette video with a recurring cast.
 
 ## Layout and conventions
 
@@ -60,6 +63,15 @@ Read before acting:
 - Big group dances from a wide static camera barely move; go closer and move the camera.
 - A targeted repaint bleeds identity onto the most prominent face; composite the region back.
 - SeedVR2 `denoise` < 1 does not mean "gentler" — it switches restoration off.
+- Once a frame is liked, derive every other angle and fix **by editing it**; regenerating drifts
+  character, costume and set. But build shots *without* the singer from the empty plate, or she
+  takes over the action.
+- Props held or carried across shots need their own reference sheet (or a body sheet edited to
+  hold them); prompts alone give a different cup, baby or host every time.
+- Words on signs and screens: make them Krea plates (it spells); Flux edits garble text.
+- A colour or look rule in a shared prompt string leaks into every shot that carries it.
+- Contact errors (limbs through frames, heads through roofs, duplicated people) are easier
+  to stage around than to prompt out; catch them before the 2x upscale.
 
 ## Working with the user
 

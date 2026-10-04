@@ -142,6 +142,36 @@ under the whole thing. Rules:
 
 ---
 
+## Variant: 5-second clips from first frames (Not my Pig, Not my Farm)
+
+The second finished video used a lighter loop that suits a song told as many short vignettes. Copy the scripts from
+`projects/not_my_pig/`; [FINDINGS.md §15](FINDINGS.md#15-a-solo-singer-through-many-sets-and-costumes-not-my-pig-not-my-farm-2026-1002-04)
+has the measurements.
+
+1. **`shots.py`** — the shot list as data: `(id, start s, mix|inst, set, lyric, picture)`, starts snapped to the beat
+   grid, every shot ≤ 5 s. `python shots.py --md` rewrites `SHOTLIST.md`.
+2. **Characters and props as sheets** — face (Krea) → 8 views (Flux) → body sheet (Krea) → combo; every costume change
+   and every recurring prop held in a hand is a Flux edit of the body sheet. Anything that must look the same twice
+   (a cup, a baby, a host) gets its own reference sheet; prompts alone do not hold props.
+3. **Sets** — `make_sets.py`, Krea plates. Any sign or screen with words is a Krea plate with the words in quotes;
+   Flux edits garble text.
+4. **`frames.py`** — one master frame of the singer per place (multiref: plate + combo sheet), then every other angle
+   there as an edit of that master. Shots without her start from the empty plate. Fixes are appended as passes at the
+   end of the file, so the history of every frame stays readable. `build` runs in passes until derived frames have
+   their masters.
+5. **`queue_shots.py`** — H3 fl2va, 5 s (124 f), the frame at frame 0, the song (`mix`) or instrumental (`inst`) slice
+   pinned; ~5 min a shot. `--seed N id` re-rolls into `out/id_rN.mp4`; pick takes in `takes.py`.
+6. **Review** — `review_shots.py` frame grids for every render; look for contact errors (limbs through objects,
+   duplicated people, floating props, misspelled text) before upscaling, because the 2x makes them leap out.
+7. **`assemble.py`** fills each beat slot from the start of its take (offsets only for silent shots), and
+   **`upscale_run.sh`** runs the per-shot cached 2x upscale, the small-face fix and the audio mux; after a round of fixes
+   only the changed shots re-upscale.
+
+Budget for 71 shots: ~35 min of first frames, ~6 h of H3 first pass, ~3 h re-renders over three review rounds,
+2 h 45 min upscale.
+
+---
+
 ## Budget (No Fucks at All)
 
 | | |

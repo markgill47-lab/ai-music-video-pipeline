@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] A woman with deep brown skin, big brunette curls and purple eyeshadow, in a sparkling purple sequin dress, walks toward the camera along a golden-hour suburban sidewalk carrying a small wrapped gift, the balloon-tied party gate behind her. The camera tracks backward in front of her as she walks toward it, Tracking with small amplitude at slow speed.
+
+overall_soundscape
+Birdsong, party music in the distance.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

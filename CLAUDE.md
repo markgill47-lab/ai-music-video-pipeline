@@ -1,9 +1,9 @@
 # Project instructions
 
 This folder is the **public** repo `markgill47-lab/ai-music-video-pipeline`, a local
-music-video pipeline built on MiniMax H3 in ComfyUI. The first video, *No Fucks at All*
-(karnivore23), is finished and published as release v1.0. More videos will be made here,
-one per folder under `projects/`.
+music-video pipeline built on MiniMax H3 in ComfyUI. Finished and published: *No Fucks at All*
+(karnivore23, release v1.0) and *Not my Pig, Not my Farm* (release not-my-pig-v1.0). More videos
+will be made here, one per folder under `projects/`.
 
 ## Read first
 
@@ -12,7 +12,10 @@ one per folder under `projects/`.
   anything; it records what failed as well as what worked.
 - The `music-video-pipeline` skill (`.claude/skills/`) summarises the workflow and the
   lessons that were expensive to learn.
-- `projects/no_fucks_at_all/` — the complete worked example to copy from.
+- `projects/no_fucks_at_all/` — the first worked example: band, ref2va, long shots.
+- `projects/not_my_pig/` — the second, and the better template for a vignette video: 71 five-second
+  fl2va shots from Flux first frames, one designed singer in six costumes, prop sheets, Krea sign
+  plates, three review rounds recorded as fix passes at the end of `frames.py`. See FINDINGS §15.
 - `projects/life_in_2045/` — the concept album *Life in 2045*. `shared/refs/` holds the recurring family
   (Steve, Zach, Nicole, Alec: face masters, face sheets, body sheets, combos); `grounded/` is track 1,
   finished (no singer, instrumental pinned on every shot; `queue_shots.py` uses beat-index slots,
@@ -23,10 +26,11 @@ one per folder under `projects/`.
 
 1. `projects/<snake_case_name>/` with `audio/`, `refs/`, `prompts/`, `out/`, `frames/`
    and a `SHOTLIST.md`. Put a copy of the song in `audio/`.
-2. Copy `queue_act2.py`, `assemble_full.py`, `review_act2.py`, `upscale_full.py` and
-   `prompts/shots/make_prompts*.py` from `projects/no_fucks_at_all/` and adapt them: the
-   `SPECS` table, the edit list, the shared subject blocks. Do not edit the originals;
-   they document the finished video.
+2. Copy the scripts from `projects/not_my_pig/` (`shots.py`, `frames.py`, `make_sets.py`,
+   `make_sheets.py`, `queue_shots.py`, `review_shots.py`, `assemble.py`, `takes.py`,
+   `upscale_shots.py`, `upscale_run.sh`, `contact.py`, `comfyq.py`, `waitn.py`) and replace the
+   project data: the shot table, the frame specs, the prompts. For band/ref2va work, start from
+   `projects/no_fucks_at_all/` instead. Do not edit the originals; they document finished videos.
 3. Follow `docs/PIPELINE.md`: song analysis, shot list on the beat grid, characters
    (face → Flux angles → Krea costume → combo sheet), sets and props, first frames, H3
    renders, review, assembly, upscale, small-face fix.
@@ -56,6 +60,12 @@ one per folder under `projects/`.
 - Downloads (models, detectors) need the user's OK first: name the file, source and size.
 - Review work visually: contact sheets of stills, frame grids of renders, short clips.
   Recommend one option when offering choices.
+- When the user likes a reference or first frame, make further angles/takes/fixes as Flux
+  **edits of that frame**, not regenerations. Recurring props get their own reference sheet.
+  Text on signs/screens: Krea plates, not Flux edits.
+- Background tasks stop at 2 h: run the upscale in chunks (it resumes from its per-shot cache).
+- Before upscaling, check the grids for contact errors (limbs through objects, duplicated
+  people, floating props); the 2x makes them leap out and the user will catch them.
 
 ## Publishing
 

@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] A woman in a lavender silk robe stands at the window and pulls the two curtains hanging from the rod above it together with both hands, shutting out the red and blue flashing lights of the city outside. The camera is Static.
+
+overall_soundscape
+Curtains swishing, a siren fading.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

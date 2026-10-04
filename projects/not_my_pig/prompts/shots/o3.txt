@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] Low on the hallway carpet, a small pink piglet in a red harness sleeps curled on a doormat in front of a closed purple door; its ear twitches and it snuggles deeper. The camera is Static.
+
+overall_soundscape
+A piglet snoring softly, a door lock clicking.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] In a crowded coffee shop, a red-faced man in a tan golf jacket leans over the counter jabbing his finger at a terrified young barista who holds up the wrong cup. The woman in the violet trench coat waits behind him, calm. The camera is handheld and follows the action.
+
+overall_soundscape
+Coffee shop: espresso machine hissing, chatter, a man shouting.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.

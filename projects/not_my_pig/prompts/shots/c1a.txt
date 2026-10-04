@@ -1,0 +1,10 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description
+Live-action, a glossy late-1990s R&B music video: vivid saturated colour, crisp bright light, wide-angle lens, 35mm film. [Shot 1] At a fender bender in a city intersection, a taxi crumpled into a red sedan with steam rising from its bonnet, the two drivers stand outside their cars yelling and waving their arms at each other, a big man in a blue tracksuit and a woman in a yellow raincoat. A woman with deep brown skin, big brunette curls and purple eyeshadow, in a violet trench coat, walks toward the camera right between them, coffee cup in her right hand, never looking at either. She (S1) sings <d>[English] Not my circus, not my monkey</d> her lips shaping every word clearly, cool and unbothered. The camera tracks backward in front of her as she walks toward it, Tracking with small amplitude at slow speed.
+
+overall_soundscape
+Horns, steam hissing, two people shouting.
+
+non_diegetic_music
+A confident, bouncy pop song with a female vocal.
